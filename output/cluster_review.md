@@ -1,4 +1,4 @@
-## Cluster -1 (1231 samples)
+## Cluster -1 (1231 samples) : Noise
 **Representative Query:** `please create for me a dairy about vacation in Iran, Hamedan`
 **Top Terms:** write, chandigarh, redacted, best, city, japan, new, make, london, like, india, hampton, story, company, poland, tell, related, base, reviews, san
 
@@ -16,7 +16,7 @@
 - Hello, could you help me find some evergreen flowering plants that do well in England? 
 
 ---
-## Cluster 0 (78 samples)
+## Cluster 0 (78 samples) : Imaginary dialogue
 **Representative Query:** `{UPTOWN SPRINGDALE}
 
 Natsuki: "What in the name of-?! Nate, mind explaining what happened here?!"`
@@ -53,7 +53,7 @@ Sayori: "What in the-?! What am I doing here?! MC?! Monika?! Anyone there?!"
 Natsuki: "Uh...Nate, why are you STILL in pajamas? We're supposed to go to the hospital to meet Katie!"
 
 ---
-## Cluster 1 (78 samples)
+## Cluster 1 (78 samples) : Imaginary dialogue
 **Representative Query:** `(In the main Azur Lane base...)
 
 Enterprise: "Akashi? Is there something bothering you?"`
@@ -92,7 +92,7 @@ Enterprise: "Hey, Akashi, I said bring some spotlights, but this seems a little 
 New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 
 ---
-## Cluster 2 (65 samples)
+## Cluster 2 (65 samples) : Fictional city generation
 **Representative Query:** `Can You Imagine 4 Realistic Fictional Cities That Are Based On Miami During 1984-1990 (Plus Population)`
 **Top Terms:** fictional cities, cities based, imagine, realistic fictional, imagine realistic, fictional, realistic, based, plus population, cities, population imagine, plus, population, imagine fictional, 1975, based miami, miami, 1992, las vegas, vegas
 
@@ -109,7 +109,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - Can You Imagine 4 Realistic Fictional Cities That Are Based On Las Vegas In Detail (Plus Population)?
 
 ---
-## Cluster 3 (78 samples)
+## Cluster 3 (78 samples) : Historical place visualisation
 **Representative Query:** `What Would An Stereotypical Version of New York City During 1974-1977 Look Like In Detail?`
 **Top Terms:** look like, look, like, did, satirical, times square, york city, 1974, headquarters, york, new york, square, times, new, version new, satirical version, square look, did times, version, 1976
 
@@ -126,7 +126,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - What Was The First The Last Country In South America To Get Color TV?
 
 ---
-## Cluster 4 (277 samples)
+## Cluster 4 (277 samples) : Write a script (sports venues)
 **Representative Query:** `write a script abotu the ACC Championship Game in subway`
 **Top Terms:** script, write script, stadium, write, mall, stadium script, stadium write, vs, university, capacity, bowl, arena, ohio, mall script, cincinnati, field, state, script capacity, conference, memorial
 
@@ -143,7 +143,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - script about buffalo bill in denver
 
 ---
-## Cluster 5 (36 samples)
+## Cluster 5 (36 samples) : Noise
 **Representative Query:** `script about the ukmc opening a new building that is tallest in the city`
 **Top Terms:** script, watch, write plot, plot, drama, drama set, guanajuato, write, tower, korean drama, actors, set guanajuato, plot korean, set, korean, building, script gigantic, actors necessary, new building, bank tower
 
@@ -160,7 +160,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - script about the upmc opening a new building that is tallest in the city
 
 ---
-## Cluster 6 (20 samples)
+## Cluster 6 (20 samples) : Capital city lookup
 **Representative Query:** `what's the capital of Sri Lanka reply shortly.`
 **Top Terms:** shortly capital, reply shortly, capital, reply, shortly, sri, lanka, sri lanka, capital sri, lanka reply, capital city, kigali, azerbaijan, city, capital marshall, mozambique reply, uruguay reply, uruguay, hawaii reply, ina years
 
@@ -177,7 +177,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - What is the capital of Sri lanka
 
 ---
-## Cluster 7 (27 samples)
+## Cluster 7 (27 samples) : Date and time calculation
 **Representative Query:** `What day is tomorrow `
 **Top Terms:** jan, days, 2023, tomorrow, 2022, 2025, 1st, holy, april, tomorrow morning, morning, june, sunday, weekend, happen, february, 00, 2024, july, modify sir
 
@@ -194,7 +194,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - What day is tomorrow 
 
 ---
-## Cluster 8 (26 samples)
+## Cluster 8 (26 samples) : Date and time calculation
 **Representative Query:** `what's the time in japan right now`
 **Top Terms:** time, utc, 00, midnight, current time, 10 00, 21st, 21st midnight, current, pm, 12, rio, 18, australia, texas, coast, vladivostok, 16 utc, running time, use utc
 
@@ -212,7 +212,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - what is the GMT for 1:00 PM PST 
 
 ---
-## Cluster 9 (57 samples)
+## Cluster 9 (57 samples) : Weather
 **Representative Query:** `whats the weather tommorow`
 **Top Terms:** weather, weather today, today, whats weather, weather like, today weather, whats, like, humidity, temperature, sydney, ice la, tornado warning, located south, counties located, south eastern, tornado, needed air, cold ice, warning counties
 
@@ -229,7 +229,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - How does the weather look like in Hong Kong?
 
 ---
-## Cluster 10 (24 samples)
+## Cluster 10 (24 samples) : Write a news report
 **Representative Query:** `Write a news article where a shape-shifting blob is found in Glasgow`
 **Top Terms:** glasgow, write, news, write news, news article, write forum, forum, article, blog post, closed, write fake, sauchiehall street, sauchiehall, fake, braehead, blog, closing, news report, post, springfield
 
@@ -246,7 +246,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - Write a news report where CITV closes at 4pm for Granada Breeze to show live coverage of a poetry festival
 
 ---
-## Cluster 11 (30 samples)
+## Cluster 11 (30 samples) : Environmental development - Africa
 **Representative Query:** `Give me ideas on projects that can Reverse Environmental Degradation at the coastal communities in Kenya`
 **Top Terms:** kenya, africa, south africa, environmental, sa, rwanda, south, carbon, port, generation, generation organization, environmental degradation, port alfred, ideas projects, kenya africa, population port, farming, carbon farming, projects reverse, communities kenya
 
@@ -263,7 +263,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - How many times a day are the carpets and floor cleaned in the haram?
 
 ---
-## Cluster 12 (28 samples)
+## Cluster 12 (28 samples) : Urban exploration / Abandoned places
 **Representative Query:** `houses in a overpopulated city 2400`
 **Top Terms:** abandoned, house, exploring, built, school, exploring abandoned, azusa, 1971, detroit, updated, west, living, 2047 safe, turnover los, meeting doumen, private schools, doumen sanitation, doumen, look cate, priory road
 
@@ -281,7 +281,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - Why is the cost of living lower in Portland than Seattle
 
 ---
-## Cluster 13 (31 samples)
+## Cluster 13 (31 samples) : Canada place recommendations
 **Representative Query:** `where is the place in canada that is affordable, has low crime, lots of outdoor recreation areas and excellent climate?`
 **Top Terms:** canada, new brunswick, crime, brunswick, highest, towns, towns canada, canada highest, mosquitos, flies, black flies, highest crime, brunswick canada, precipitation, mosquitos black, bugs, bugs mosquitos, residential, safest, new
 
@@ -298,7 +298,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - In what areas is there a high level of crime in the Russian Federation?
 
 ---
-## Cluster 14 (34 samples)
+## Cluster 14 (34 samples) : Trivia questions
 **Representative Query:** `tell me about different renissance in europe`
 **Top Terms:** europe, countries, cities, austria, country, netherlands, cities austria, tourist cities, popular, balkans, france, state, tourist, different, tell, germany, main, sofia car, village werkendam, countries europe
 
@@ -315,7 +315,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - How do I succeed financially in Syria despite all the bad conditions here?
 
 ---
-## Cluster 15 (81 samples)
+## Cluster 15 (81 samples) : Fictional city - world building
 **Representative Query:** `I'm working on a car chase game and I'd like to tell you about the cities that the player can visit.`
 **Top Terms:** game, names, city, gta, nessebar, zone, nessebar bulgaria, sonic, green, wacky, setting, bulgarian, based, parking, cities, sonic zone, help coming, cyberpunk, sharp, coming sonic
 
@@ -332,7 +332,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - Build me a city for my sci-fi novel located on a distant planet. It should be Russian-inspired, and located in a cold mountainous region.
 
 ---
-## Cluster 16 (42 samples)
+## Cluster 16 (42 samples) : Noise
 **Representative Query:** `give me 10 prompts about hall way coridor hotel`
 **Top Terms:** write, poem, write poem, pass grille, grille, coffee, pass, disney, sunset, song, city, hotel, rap song, qoutes sunset, bungalow, qoutes, rap, sunset boulevard, boulevard, yards
 
@@ -349,7 +349,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - consumerism qoutes in sunset boulevard
 
 ---
-## Cluster 17 (24 samples)
+## Cluster 17 (24 samples) : Travel recommendations
 **Representative Query:** `Based on popular opinion, what are the best places to visit this summer`
 **Top Terms:** places, best places, visit, best, madrid, resorts, cheep, popular, colorado, places visit, summer, world, spain, june, trip, plan, end february, list sights, worth visit, kids june
 
@@ -366,7 +366,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - Based on popular opinion, what are the best places to visit this summer
 
 ---
-## Cluster 18 (20 samples)
+## Cluster 18 (20 samples) : Travel recommendations
 **Representative Query:** `Generate a list of 10 beutiful or magical things to see in yucatan peninsula close to merida (300 km or less)`
 **Top Terms:** algeria, visit rome, things, rome, 10, rome create, things visit, hattiesburg, 10 things, prompt, visit, late, famous, video, activities, france, old, available late, agency alley, spot famous
 
@@ -383,7 +383,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - Generate a list of 10 beutiful or magical things to see in yucatan peninsula close to merida (300 km or less)
 
 ---
-## Cluster 19 (22 samples)
+## Cluster 19 (22 samples) : Travel recommendations
 **Representative Query:** `Hi, can you plan a 9-day itinerary for iceland in october? will be driving`
 **Top Terms:** driving, trip, october, europe, car, sail, rent car, iceland, rent, hi, year driving, car year, 30 years, october driving, driving license, sail world, license 30, country europe, 30, plan day
 
@@ -400,7 +400,7 @@ New Jersey: "Oh! Morning, Kashino. How are the supplies coming along?"
 - In which country in Europe can we rent a car with less than one year driving license but at more than 30 years old 
 
 ---
-## Cluster 20 (169 samples)
+## Cluster 20 (169 samples) : Travel recommendations
 **Representative Query:** `plan a 5days itinerary to tokyo, flight from klia 2pm. want to visit shibuya,, windows shopping `
 **Top Terms:** itinerary, trip, days, plan, day, barcelona, travel, day trip, paris, tokyo, day itinerary, make, cheapest, ticket, flight, hotels, moon lake, visit, best, italy
 
@@ -420,7 +420,7 @@ visiting Berlin…
 - Generate a travel itinerary to Australia in 400 words. 
 
 ---
-## Cluster 21 (22 samples)
+## Cluster 21 (22 samples) : Real estate analysis
 **Representative Query:** `Give me a detailed market analysis of the printing industry in Miami Florida`
 **Top Terms:** longport, market, budapest, license plate, plate, analysis, miami florida, market analysis, borough longport, license, miami, printing, florida, borough, plate reader, reports, plate readers, empirical data, empirical, printing industry
 
@@ -437,7 +437,7 @@ visiting Berlin…
 - Published reports and empirical data to support the need for license plate readers within the Borough of Longport
 
 ---
-## Cluster 22 (24 samples)
+## Cluster 22 (24 samples) : Noise
 **Representative Query:** `I want you to write thing to do in Portland Museum of Art for a second person`
 **Top Terms:** hypothetical, greenville, second person, museum, art, second, write, person, nc second, hypothetical geoff, person write, geoff, geoff marshall, greenville nc, museum art, marshall, walters, art museum, walters art, nc
 
@@ -454,7 +454,7 @@ visiting Berlin…
 - Write about Explore The Walters Art Museum for a second person
 
 ---
-## Cluster 23 (86 samples)
+## Cluster 23 (86 samples) : Social media content creation
 **Representative Query:** `Write 10 negative tweets for video about right now high winds from Bay side at the beach`
 **Top Terms:** write 10, write, tweets, 10, video, funny, cape cod, cod, cape, 10 tweets, 10 funny, comments, funny tweets, youtube, today, provincetown, beaches, sunrise, beach, morning
 
@@ -471,7 +471,7 @@ visiting Berlin…
 - Make a video promoting naturism in estonia
 
 ---
-## Cluster 24 (102 samples)
+## Cluster 24 (102 samples) : Real estate
 **Representative Query:** `Please provide me with a property adverting write up for a 3 bedroom house with pool in Thornlands`
 **Top Terms:** bedroom, nc, real estate, estate, halifax, canada, sale, real, house, cana, apartment, listing, ontario canada, rental, provide, charlotte nc, charlotte, ontario, property, nova scotia
 
@@ -490,7 +490,7 @@ go through this website
 - Make a real estate post for 1556 Flintwood Avenue Cookeville <REDACTED>
 
 ---
-## Cluster 25 (68 samples)
+## Cluster 25 (68 samples) : Write a travel article
 **Representative Query:** `write me an article about travel to cambodia`
 **Top Terms:** cambodia, write, article, write 500, words, greece, milina, 500, step, words article, tula, albania cambodia, cambodia write, kulikovo, match, milina greece, maldives, albania, 500 words, paragraphs
 
@@ -508,7 +508,7 @@ go through this website
 - features of tourism in Tula and Moscow region
 
 ---
-## Cluster 26 (21 samples)
+## Cluster 26 (21 samples) : Geography factual lookup
 **Representative Query:** `what is the capital of Australia`
 **Top Terms:** poorest, australia, capital, london, capital australia, poorest region, uk, borough, australian, county, region, state, pōkai, te ahuahu, forrest, width, width washington, forrest australia, place australian, kokoda couldn
 
@@ -525,7 +525,7 @@ go through this website
 - What Is The Poorest Region In Australia During 1967?
 
 ---
-## Cluster 27 (54 samples)
+## Cluster 27 (54 samples) : Ukraine
 **Representative Query:** `I need data about Korolenko street in Brovary, Kyiv region`
 **Top Terms:** ukraine, brovary, kyiv, story, san, write, need, police, kyiv region, kiev, need data, city kiev, brovary city, brovary kyiv, adventure, list 100, region, diego, san diego, radio
 
@@ -542,7 +542,7 @@ go through this website
 - Whats the police radio frequency in estonia?
 
 ---
-## Cluster 28 (35 samples)
+## Cluster 28 (35 samples) : Central Asia content
 **Representative Query:** `send me informations about Uzbekistan`
 **Top Terms:** pakistan, kazakhstan, article, kyrgyz, article pakistan, karachi, write, august, contact, write article, ma, pakistan 14, political ideologies, amanat kazakhstan, 14 august, ideologies, august write, pc karachi, hn, amanat
 
@@ -559,7 +559,7 @@ go through this website
 - Write a 2000 word article on chemist jobs in Qatar
 
 ---
-## Cluster 29 (130 samples)
+## Cluster 29 (130 samples) : Noise / Education and university enquiries
 **Representative Query:** `write an email to QA department regarding the QA visit of upcoming campuses in south region
 `
 **Top Terms:** university, email, write email, program, hong, hong kong, kong, ohio, write, college, medical, list, university badr, university cairo, badr, badr university, website, create website, state, include
@@ -577,7 +577,7 @@ go through this website
 - i need a list of oncologist in germany with their emails
 
 ---
-## Cluster 30 (20 samples)
+## Cluster 30 (20 samples) : City and place (general)
 **Representative Query:** `describe the city you live in.`
 **Top Terms:** city, city live, questions, theater, started city, la respond, questions time, started, time help, state country, help best, tell city, east la, streetwear, tribal streetwear, streetwear started, respond, live, kansas, tribal
 
@@ -599,7 +599,7 @@ Respond with 1, 2, 3, or 4.
 - where you from
 
 ---
-## Cluster 31 (24 samples)
+## Cluster 31 (24 samples) : Local activities and things to do
 **Representative Query:** `What to do in  Dallas `
 **Top Terms:** weekend, dallas, texas, fun things, valencia, fun, tx, things, ideas, content 20, rockwall texas, rockwall, 25 miles, midland tx, midland, things midland, 30 yr, spain young, rollercoasters, olds
 
@@ -616,7 +616,7 @@ Respond with 1, 2, 3, or 4.
 - What are the most fun things to do in Southampton?
 
 ---
-## Cluster 32 (24 samples)
+## Cluster 32 (24 samples) : Egypt (research and content)
 **Representative Query:** `I need topical authority information about nile cruise in egypt`
 **Top Terms:** egypt, page research, platform, article sport, egypt travel, coca, nile, 15 page, sewage, dam egypt, high dam, sport egypt, research high, article, age, dam, sport, page, best places, morocco
 
@@ -633,7 +633,7 @@ Respond with 1, 2, 3, or 4.
 - generate an outline about urbanization of Tamesna City in morocco
 
 ---
-## Cluster 33 (47 samples)
+## Cluster 33 (47 samples) : Internet censorship and access
 **Representative Query:** `Give me links list that are blocked in China and can't access to it like youtube.`
 **Top Terms:** blocked, korea, china, north korea, websites, russia, access, youtube, blocked russia, websites blocked, list websites, north, list, blocked china, links, vpn, free, gdp, chinese, google
 
@@ -651,7 +651,7 @@ Respond with 1, 2, 3, or 4.
 - Are prescription drugs free in China?
 
 ---
-## Cluster 34 (163 samples)
+## Cluster 34 (163 samples) : Local travel and city activities
 **Representative Query:** `Things to do near <REDACTED>`
 **Top Terms:** redacted, redacted redacted, airport, city redacted, city, hotels, hotel, redacted city, best, cities, airports, local, hotels near, near, trip, dec, nepal, hotel redacted, trump, cities towns
 
@@ -668,7 +668,7 @@ Respond with 1, 2, 3, or 4.
 - Dominica airport 
 
 ---
-## Cluster 35 (23 samples)
+## Cluster 35 (23 samples) : Noise
 **Representative Query:** `make me a roading map beautiful see around beautiful contry `
 **Top Terms:** map, path, roads, traffic, beautiful, miles, place, short, house, road, cj7, union, union station, tournament fox, roads main, roads catan, short hill特点, roading map, abdy rock, roading
 
@@ -687,7 +687,7 @@ Please write in English language.
 - hwy
 
 ---
-## Cluster 36 (35 samples)
+## Cluster 36 (35 samples) : City districts and geography
 **Representative Query:** `Name the 6 most important districts of New York City`
 **Top Terms:** important districts, districts, important, new york, york, new, york city, capital, places, city important, queens new, important quarters, districts new, novosibirsk, queens, city, quarters, dance, york 10, york famous
 
@@ -705,7 +705,7 @@ Vessel Name	MOHAMAD Y how many holds
 - What is the economic system of Novosibirsk in TNO?
 
 ---
-## Cluster 37 (23 samples)
+## Cluster 37 (23 samples) : Noise
 **Representative Query:** `explain hau’ofa sea of island`
 **Top Terms:** holy, holy lands, hawaii, lands, pacific, located, byzantine, crusaders, empire england, bora, byzantine empire, sea, empire, ancient, england, far, island, east, located pacific, ender portal
 
@@ -725,7 +725,7 @@ Egypt
 Constantinople
 
 ---
-## Cluster 38 (26 samples)
+## Cluster 38 (26 samples) : Noise
 **Representative Query:** `My name is Anis. I live in Dhaka. please write shortly`
 **Top Terms:** bio, write, ir, live, ar, hair transplant, transplant, translate english, hair, mumbai, city, translate, english, anis live, transmigration, different parts, dönerbundenbesitzer, na, transmigration manhua, funny bumble
 
@@ -742,7 +742,7 @@ Constantinople
 - Write a letter to a child hood friend from mumbai
 
 ---
-## Cluster 39 (70 samples)
+## Cluster 39 (70 samples) : China geography and information
 **Representative Query:** `China`
 **Top Terms:** china, beijing, province, shanghai, suzhou, advantages, museum, city, agriculture, did, chinese, team, tour, want, want china, 有无语法错误, air quality, museum did, wuhan, shanghai best
 
@@ -760,7 +760,7 @@ What is the most friendly city in China?
 - Please give a brief description of Linyi City, Shandong Province in 500 words in Chinese
 
 ---
-## Cluster 40 (32 samples)
+## Cluster 40 (32 samples) : Business planning and trade
 **Representative Query:** `i need to make a project in egypt with very low cost (open my business `
 **Top Terms:** business, egypt, uae, dubai, countries, export, job, start, job uae, business want, startup job, business plan, startup, plan, small, products, analysis, farm, switzerland, desert
 
@@ -777,7 +777,7 @@ What is the most friendly city in China?
 - which are the countries that have a free trade deal wit the UAE
 
 ---
-## Cluster 41 (26 samples)
+## Cluster 41 (26 samples) : Facts about countries and regions
 **Representative Query:** `how may countries are there`
 **Top Terms:** countries, states, north america, america, list countries, regions, united states, united, canda, regions united, north, list, africa, national, square, region, countries states, countries visit, years countries, countries western
 
@@ -798,7 +798,7 @@ the
 - List the countries of Northern Africa.
 
 ---
-## Cluster 42 (79 samples)
+## Cluster 42 (79 samples) : Water geography and hydrology
 **Representative Query:** `show me the rainfall stations in Sudan`
 **Top Terms:** sudan, basin, sahara, river, water, south sudan, lake, sahara desert, coolum beach, coolum, jembatan, dam, desert, malaysia, rain, lakes, rivers, south, state, bridge
 
@@ -815,7 +815,7 @@ the
 - havocs of flood in nigeria
 
 ---
-## Cluster 43 (69 samples)
+## Cluster 43 (69 samples) : Noise
 **Representative Query:** `Help me make wonderful fantasy img view about midnight full moon lightning on lake andmmmvgvvvnd `
 **Top Terms:** lake, mountain, picture, image, photo, create image, mountains, forest, create, view, temple, london, want, man, console, make picture, sidney, log want, log, singapore sidney
 
@@ -833,7 +833,7 @@ the
 - Beer Slowly Brewed with the finest Eastern Cape Rainwater
 
 ---
-## Cluster 44 (33 samples)
+## Cluster 44 (33 samples) : Superlatives and size facts
 **Representative Query:** `what is the biggest building`
 **Top Terms:** tower, towers, biggest, bell, ocean, eiffel tower, biggest city, eiffel, city earth, world, big, earth, built, large, largest, tell, 11, building, sea, long
 
@@ -850,7 +850,7 @@ the
 - Uploaded a fileWhat beam would you guess this to be from the WTCs?  What part of the buildings?
 
 ---
-## Cluster 45 (36 samples)
+## Cluster 45 (36 samples) : Restaurant recommendations
 **Representative Query:** `Give me names of dining places in Florentin, Tel Aviv `
 **Top Terms:** restaurants, riyadh, bar, dinner, østre, østre elvebakke, elvebakke oslo, elvebakke, birthday, oslo, places, food, walk østre, min walk, dishes, meat, restaurants 30, meat dishes, 10 popular, burger king
 
@@ -872,7 +872,7 @@ the
 - Tell me some special and cheap places in Riyadh for Dinner Lebanese or Turkish
 
 ---
-## Cluster 46 (39 samples)
+## Cluster 46 (39 samples) : Industrial suppliers and manufacturers
 **Representative Query:** `give me all the suppliers and distributors of FLIR machine Visions in AISA and Middle East `
 **Top Terms:** hydrogen, europe, companies, fiberglass, fiberglass mesh, mesh, importer, production, netherlands, laval, flir, manufacture, psipis, machine visions, distributor, visions, hydrogen transportation, regulations, france, manufacturing
 
@@ -889,7 +889,7 @@ the
 - hom many Felixixstowe F 3s were assembled in hm dockyard malta and what were their serial numbers?
 
 ---
-## Cluster 47 (59 samples)
+## Cluster 47 (59 samples) : Consumer product sourcing
 **Representative Query:** `Name few products which are most popular buying online in Saudi Arabia `
 **Top Terms:** saudi, saudi arabia, arabia, golf, online, golf courses, courses, multiple, multiple golf, company multiple, golf company, balls, golf balls, sell, company, courses europe, europe golf, sell golf, europe, buy
 
@@ -906,7 +906,7 @@ the
 - hi, good morning,  help me find an independent website for online luggage retail in japan please
 
 ---
-## Cluster 48 (30 samples)
+## Cluster 48 (30 samples) : Business directory lookup
 **Representative Query:** `give me a list of all coffee shops in newyourk city`
 **Top Terms:** coffee, shops, coffee shops, city list, list, shops newyork, newyork city, newyork, city, 18th century, coffee houses, century coffee, compared, compared 18th, 18th, tea rooms, drinks, place compared, today place, list 50
 

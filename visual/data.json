@@ -1,0 +1,1261 @@
+[
+    {
+        "id": "root",
+        "name": "Geospatial first turns"
+    },
+    {
+        "id": "Writing and ideation",
+        "name": "Writing and ideation",
+        "parent": "root",
+        "size": 3348,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Country-specific questions",
+        "name": "Country-specific questions",
+        "parent": "root",
+        "size": 2889,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Statistical",
+        "name": "Statistical",
+        "parent": "root",
+        "size": 1543,
+        "colour": "#b2df8a"
+    },
+    {
+        "id": "Historical",
+        "name": "Historical",
+        "parent": "root",
+        "size": 1366,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Physical",
+        "name": "Physical",
+        "parent": "root",
+        "size": 1150,
+        "colour": "#fb9a99"
+    },
+    {
+        "id": "Trip planning",
+        "name": "Trip planning",
+        "parent": "root",
+        "size": 1069,
+        "colour": "#e31a1c"
+    },
+    {
+        "id": "Business & finance",
+        "name": "Business & finance",
+        "parent": "root",
+        "size": 980,
+        "colour": "#fdbf6f"
+    },
+    {
+        "id": "POIs & Commercial",
+        "name": "POIs & Commercial",
+        "parent": "root",
+        "size": 942,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Temporal",
+        "name": "Temporal",
+        "parent": "root",
+        "size": 753,
+        "colour": "#cab2d6"
+    },
+    {
+        "id": "Other",
+        "name": "Other",
+        "parent": "root",
+        "size": 719,
+        "colour": "#6a3d9a"
+    },
+    {
+        "id": "Events",
+        "name": "Events",
+        "parent": "root",
+        "size": 692,
+        "colour": "#cccccc"
+    },
+    {
+        "id": "Administrative",
+        "name": "Administrative",
+        "parent": "root",
+        "size": 530,
+        "colour": "#b15928"
+    },
+    {
+        "id": "Biographical",
+        "name": "Biographical",
+        "parent": "root",
+        "size": 374,
+        "colour": "#8dd3c7"
+    },
+    {
+        "id": "Cultural",
+        "name": "Cultural",
+        "parent": "root",
+        "size": 182,
+        "colour": "#bc80bd"
+    },
+    {
+        "id": "Write a script (university/college focus)",
+        "name": "Write a script (university/college focus)",
+        "parent": "Writing and ideation",
+        "size": 1285,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "China & Taiwan",
+        "name": "China & Taiwan",
+        "parent": "Country-specific questions",
+        "size": 916,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Country rankings",
+        "name": "Country rankings",
+        "parent": "Statistical",
+        "size": 899,
+        "colour": "#b2df8a"
+    },
+    {
+        "id": "Plan a trip to...",
+        "name": "Plan a trip to...",
+        "parent": "Trip planning",
+        "size": 824,
+        "colour": "#e31a1c"
+    },
+    {
+        "id": "Weather & temperature",
+        "name": "Weather & temperature",
+        "parent": "Temporal",
+        "size": 605,
+        "colour": "#cab2d6"
+    },
+    {
+        "id": "Fictional world building",
+        "name": "Fictional world building",
+        "parent": "Writing and ideation",
+        "size": 501,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Planets & space",
+        "name": "Planets & space",
+        "parent": "Physical",
+        "size": 395,
+        "colour": "#fb9a99"
+    },
+    {
+        "id": "Capital cities",
+        "name": "Capital cities",
+        "parent": "Administrative",
+        "size": 390,
+        "colour": "#b15928"
+    },
+    {
+        "id": "Stock markets",
+        "name": "Stock markets",
+        "parent": "Business & finance",
+        "size": 387,
+        "colour": "#fdbf6f"
+    },
+    {
+        "id": "European history",
+        "name": "European history",
+        "parent": "Historical",
+        "size": 384,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Birthplaces & residences",
+        "name": "Birthplaces & residences",
+        "parent": "Biographical",
+        "size": 374,
+        "colour": "#8dd3c7"
+    },
+    {
+        "id": "Russia-Ukraine war",
+        "name": "Russia-Ukraine war",
+        "parent": "Events",
+        "size": 345,
+        "colour": "#cccccc"
+    },
+    {
+        "id": "University rankings",
+        "name": "University rankings",
+        "parent": "Statistical",
+        "size": 315,
+        "colour": "#b2df8a"
+    },
+    {
+        "id": "India",
+        "name": "India",
+        "parent": "Country-specific questions",
+        "size": 311,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Write a short story",
+        "name": "Write a short story",
+        "parent": "Writing and ideation",
+        "size": 305,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Suppliers & B2B sourcing",
+        "name": "Suppliers & B2B sourcing",
+        "parent": "Business & finance",
+        "size": 281,
+        "colour": "#fdbf6f"
+    },
+    {
+        "id": "Restaurants",
+        "name": "Restaurants",
+        "parent": "POIs & Commercial",
+        "size": 266,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Japan",
+        "name": "Japan",
+        "parent": "Country-specific questions",
+        "size": 239,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Oceans, water & hydrology",
+        "name": "Oceans, water & hydrology",
+        "parent": "Physical",
+        "size": 239,
+        "colour": "#fb9a99"
+    },
+    {
+        "id": "Plants, animals & wildlife by region",
+        "name": "Plants, animals & wildlife by region",
+        "parent": "Physical",
+        "size": 216,
+        "colour": "#fb9a99"
+    },
+    {
+        "id": "Image-generation prompts",
+        "name": "Image-generation prompts",
+        "parent": "Writing and ideation",
+        "size": 206,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Salaries and taxes by country",
+        "name": "Salaries and taxes by country",
+        "parent": "Statistical",
+        "size": 188,
+        "colour": "#b2df8a"
+    },
+    {
+        "id": "US history",
+        "name": "US history",
+        "parent": "Historical",
+        "size": 188,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Prime ministers",
+        "name": "Prime ministers",
+        "parent": "Historical",
+        "size": 187,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Beach + social media copy",
+        "name": "Beach + social media copy",
+        "parent": "Other",
+        "size": 187,
+        "colour": "#6a3d9a"
+    },
+    {
+        "id": "Football results and predictions",
+        "name": "Football results and predictions",
+        "parent": "Events",
+        "size": 177,
+        "colour": "#cccccc"
+    },
+    {
+        "id": "Mountains & elevation",
+        "name": "Mountains & elevation",
+        "parent": "Physical",
+        "size": 171,
+        "colour": "#fb9a99"
+    },
+    {
+        "id": "World events",
+        "name": "World events",
+        "parent": "Events",
+        "size": 170,
+        "colour": "#cccccc"
+    },
+    {
+        "id": "US presidents & elections",
+        "name": "US presidents & elections",
+        "parent": "Historical",
+        "size": 169,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Canada",
+        "name": "Canada",
+        "parent": "Country-specific questions",
+        "size": 167,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Tell me about a place",
+        "name": "Tell me about a place",
+        "parent": "Writing and ideation",
+        "size": 158,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Write an analysis",
+        "name": "Write an analysis",
+        "parent": "Writing and ideation",
+        "size": 158,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Best places to live / local recommendations",
+        "name": "Best places to live / local recommendations",
+        "parent": "Trip planning",
+        "size": 158,
+        "colour": "#e31a1c"
+    },
+    {
+        "id": "Where are you & I from",
+        "name": "Where are you & I from",
+        "parent": "Other",
+        "size": 156,
+        "colour": "#6a3d9a"
+    },
+    {
+        "id": "Time zones",
+        "name": "Time zones",
+        "parent": "Temporal",
+        "size": 148,
+        "colour": "#cab2d6"
+    },
+    {
+        "id": "Tall buildings & towers",
+        "name": "Tall buildings & towers",
+        "parent": "POIs & Commercial",
+        "size": 147,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Russia & USSR (history)",
+        "name": "Russia & USSR (history)",
+        "parent": "Historical",
+        "size": 145,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Write a blog/social media post",
+        "name": "Write a blog/social media post",
+        "parent": "Writing and ideation",
+        "size": 140,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Philippines & Malaysia",
+        "name": "Philippines & Malaysia",
+        "parent": "Country-specific questions",
+        "size": 130,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Airports",
+        "name": "Airports",
+        "parent": "POIs & Commercial",
+        "size": 128,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Israel & Palestine",
+        "name": "Israel & Palestine",
+        "parent": "Country-specific questions",
+        "size": 122,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Write a poem",
+        "name": "Write a poem",
+        "parent": "Writing and ideation",
+        "size": 120,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Film/DVD release dates",
+        "name": "Film/DVD release dates",
+        "parent": "Cultural",
+        "size": 115,
+        "colour": "#bc80bd"
+    },
+    {
+        "id": "Singapore & Hong Kong",
+        "name": "Singapore & Hong Kong",
+        "parent": "Country-specific questions",
+        "size": 112,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Abandoned houses",
+        "name": "Abandoned houses",
+        "parent": "POIs & Commercial",
+        "size": 111,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Germany",
+        "name": "Germany",
+        "parent": "Country-specific questions",
+        "size": 106,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Write a (university) application / cover letter",
+        "name": "Write a (university) application / cover letter",
+        "parent": "Writing and ideation",
+        "size": 106,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Traffic & urban planning",
+        "name": "Traffic & urban planning",
+        "parent": "Other",
+        "size": 106,
+        "colour": "#6a3d9a"
+    },
+    {
+        "id": "Vietnam",
+        "name": "Vietnam",
+        "parent": "Country-specific questions",
+        "size": 103,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "US state laws (business focus)",
+        "name": "US state laws (business focus)",
+        "parent": "Business & finance",
+        "size": 101,
+        "colour": "#fdbf6f"
+    },
+    {
+        "id": "Korea",
+        "name": "Korea",
+        "parent": "Country-specific questions",
+        "size": 96,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Flight booking & airfare",
+        "name": "Flight booking & airfare",
+        "parent": "POIs & Commercial",
+        "size": 96,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Pakistan & Bangladesh",
+        "name": "Pakistan & Bangladesh",
+        "parent": "Country-specific questions",
+        "size": 91,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "UK & French monarchs / heads of state",
+        "name": "UK & French monarchs / heads of state",
+        "parent": "Historical",
+        "size": 89,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Crime statistics",
+        "name": "Crime statistics",
+        "parent": "Statistical",
+        "size": 88,
+        "colour": "#b2df8a"
+    },
+    {
+        "id": "Censorship by country",
+        "name": "Censorship by country",
+        "parent": "Other",
+        "size": 88,
+        "colour": "#6a3d9a"
+    },
+    {
+        "id": "Top places to visit",
+        "name": "Top places to visit",
+        "parent": "Trip planning",
+        "size": 87,
+        "colour": "#e31a1c"
+    },
+    {
+        "id": "Food permits",
+        "name": "Food permits",
+        "parent": "Business & finance",
+        "size": 87,
+        "colour": "#fdbf6f"
+    },
+    {
+        "id": "Addresses and ZIP codes",
+        "name": "Addresses and ZIP codes",
+        "parent": "Administrative",
+        "size": 76,
+        "colour": "#b15928"
+    },
+    {
+        "id": "Real estate prices & listings",
+        "name": "Real estate prices & listings",
+        "parent": "POIs & Commercial",
+        "size": 75,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Religion",
+        "name": "Religion",
+        "parent": "Historical",
+        "size": 73,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Volcanoes, rocks, geology",
+        "name": "Volcanoes, rocks, geology",
+        "parent": "Physical",
+        "size": 73,
+        "colour": "#fb9a99"
+    },
+    {
+        "id": "Nordics",
+        "name": "Nordics",
+        "parent": "Country-specific questions",
+        "size": 70,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "What if / hypothetical history scenarios",
+        "name": "What if / hypothetical history scenarios",
+        "parent": "Writing and ideation",
+        "size": 69,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Iran & Egypt",
+        "name": "Iran & Egypt",
+        "parent": "Country-specific questions",
+        "size": 69,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "GeoGuessr & map projections",
+        "name": "GeoGuessr & map projections",
+        "parent": "Other",
+        "size": 68,
+        "colour": "#6a3d9a"
+    },
+    {
+        "id": "Australia",
+        "name": "Australia",
+        "parent": "Country-specific questions",
+        "size": 68,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Presidents",
+        "name": "Presidents",
+        "parent": "Historical",
+        "size": 68,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Write a review (hotel/resort)",
+        "name": "Write a review (hotel/resort)",
+        "parent": "Writing and ideation",
+        "size": 67,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Recipes and regional cuisine",
+        "name": "Recipes and regional cuisine",
+        "parent": "Cultural",
+        "size": 67,
+        "colour": "#bc80bd"
+    },
+    {
+        "id": "Write a (fake) news article",
+        "name": "Write a (fake) news article",
+        "parent": "Writing and ideation",
+        "size": 67,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Professional licensing",
+        "name": "Professional licensing",
+        "parent": "Business & finance",
+        "size": 65,
+        "colour": "#fdbf6f"
+    },
+    {
+        "id": "US states and places",
+        "name": "US states and places",
+        "parent": "Administrative",
+        "size": 64,
+        "colour": "#b15928"
+    },
+    {
+        "id": "Turkey",
+        "name": "Turkey",
+        "parent": "Country-specific questions",
+        "size": 64,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Property description & search",
+        "name": "Property description & search",
+        "parent": "POIs & Commercial",
+        "size": 64,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Historical battles & wars",
+        "name": "Historical battles & wars",
+        "parent": "Historical",
+        "size": 63,
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Network infrastructure by country",
+        "name": "Network infrastructure by country",
+        "parent": "Country-specific questions",
+        "size": 62,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Write an essay",
+        "name": "Write an essay",
+        "parent": "Writing and ideation",
+        "size": 61,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "US state laws",
+        "name": "US state laws",
+        "parent": "Other",
+        "size": 60,
+        "colour": "#6a3d9a"
+    },
+    {
+        "id": "Money & business advice",
+        "name": "Money & business advice",
+        "parent": "Business & finance",
+        "size": 59,
+        "colour": "#fdbf6f"
+    },
+    {
+        "id": "Flat-earth questions",
+        "name": "Flat-earth questions",
+        "parent": "Physical",
+        "size": 56,
+        "colour": "#fb9a99"
+    },
+    {
+        "id": "Mexico",
+        "name": "Mexico",
+        "parent": "Country-specific questions",
+        "size": 55,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Indonesia",
+        "name": "Indonesia",
+        "parent": "Country-specific questions",
+        "size": 55,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Write a song",
+        "name": "Write a song",
+        "parent": "Writing and ideation",
+        "size": 55,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Cars (buying, popularity, licensing)",
+        "name": "Cars (buying, popularity, licensing)",
+        "parent": "POIs & Commercial",
+        "size": 55,
+        "colour": "#ff7f00"
+    },
+    {
+        "id": "Accessing ChatGPT from blocked countries",
+        "name": "Accessing ChatGPT from blocked countries",
+        "parent": "Other",
+        "size": 54,
+        "colour": "#6a3d9a"
+    },
+    {
+        "id": "Poland",
+        "name": "Poland",
+        "parent": "Country-specific questions",
+        "size": 53,
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "GDP & national economies",
+        "name": "GDP & national economies",
+        "parent": "Statistical",
+        "size": 53,
+        "colour": "#b2df8a"
+    },
+    {
+        "id": "Tell me a joke",
+        "name": "Tell me a joke",
+        "parent": "Writing and ideation",
+        "size": 50,
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "Write a script (university/college focus)example",
+        "name": "script about new mexico state going 12-2",
+        "parent": "Write a script (university/college focus)",
+        "size": 1
+    },
+    {
+        "id": "China & Taiwanexample",
+        "name": "hi, where is china?",
+        "parent": "China & Taiwan",
+        "size": 1
+    },
+    {
+        "id": "Country rankingsexample",
+        "name": "what's the largest country without a river",
+        "parent": "Country rankings",
+        "size": 1
+    },
+    {
+        "id": "Plan a trip to...example",
+        "name": "plan a weekend trip to amsterdam",
+        "parent": "Plan a trip to...",
+        "size": 1
+    },
+    {
+        "id": "Weather & temperatureexample",
+        "name": "autumn temperature in bukayriyah",
+        "parent": "Weather & temperature",
+        "size": 1
+    },
+    {
+        "id": "Fictional world buildingexample",
+        "name": "what would christmas 1948 in hiroshima look like in detail?",
+        "parent": "Fictional world building",
+        "size": 1
+    },
+    {
+        "id": "Planets & spaceexample",
+        "name": "what planet is between mercury and venus?",
+        "parent": "Planets & space",
+        "size": 1
+    },
+    {
+        "id": "Capital citiesexample",
+        "name": "tell me about paris.",
+        "parent": "Capital cities",
+        "size": 1
+    },
+    {
+        "id": "Stock marketsexample",
+        "name": "best germany etf",
+        "parent": "Stock markets",
+        "size": 1
+    },
+    {
+        "id": "European historyexample",
+        "name": "write me a small essay on georgian politics (country)",
+        "parent": "European history",
+        "size": 1
+    },
+    {
+        "id": "Birthplaces & residencesexample",
+        "name": "katy from letterkenny",
+        "parent": "Birthplaces & residences",
+        "size": 1
+    },
+    {
+        "id": "Russia-Ukraine warexample",
+        "name": "what war is ukraine in right now",
+        "parent": "Russia-Ukraine war",
+        "size": 1
+    },
+    {
+        "id": "University rankingsexample",
+        "name": "describe the national university of singapore",
+        "parent": "University rankings",
+        "size": 1
+    },
+    {
+        "id": "Indiaexample",
+        "name": "state name of india",
+        "parent": "India",
+        "size": 1
+    },
+    {
+        "id": "Write a short storyexample",
+        "name": "write the memoirs of name_1, royal cat of the berkshires",
+        "parent": "Write a short story",
+        "size": 1
+    },
+    {
+        "id": "Suppliers & B2B sourcingexample",
+        "name": "i want to find out some elevator manufacturer in  malaysia",
+        "parent": "Suppliers & B2B sourcing",
+        "size": 1
+    },
+    {
+        "id": "Restaurantsexample",
+        "name": "best place to eat in omaha, ne",
+        "parent": "Restaurants",
+        "size": 1
+    },
+    {
+        "id": "Japanexample",
+        "name": "information about japan",
+        "parent": "Japan",
+        "size": 1
+    },
+    {
+        "id": "Oceans, water & hydrologyexample",
+        "name": "name all the oceans",
+        "parent": "Oceans, water & hydrology",
+        "size": 1
+    },
+    {
+        "id": "Plants, animals & wildlife by regionexample",
+        "name": "any evidence that coconuts can ripen in marbella, spain?",
+        "parent": "Plants, animals & wildlife by region",
+        "size": 1
+    },
+    {
+        "id": "Image-generation promptsexample",
+        "name": "visualize a quiet forest scene with a cabin.",
+        "parent": "Image-generation prompts",
+        "size": 1
+    },
+    {
+        "id": "Salaries and taxes by countryexample",
+        "name": "llb salary in india",
+        "parent": "Salaries and taxes by country",
+        "size": 1
+    },
+    {
+        "id": "US historyexample",
+        "name": "who discovered the north american continent?",
+        "parent": "US history",
+        "size": 1
+    },
+    {
+        "id": "Prime ministersexample",
+        "name": "who is the pm of australia?",
+        "parent": "Prime ministers",
+        "size": 1
+    },
+    {
+        "id": "Beach + social media copyexample",
+        "name": "what is your take on anjarle beach",
+        "parent": "Beach + social media copy",
+        "size": 1
+    },
+    {
+        "id": "Football results and predictionsexample",
+        "name": "what is the biggest club in manchester?",
+        "parent": "Football results and predictions",
+        "size": 1
+    },
+    {
+        "id": "Mountains & elevationexample",
+        "name": "what is the highest point in mongolia",
+        "parent": "Mountains & elevation",
+        "size": 1
+    },
+    {
+        "id": "World eventsexample",
+        "name": "what happened on may 14 2023?",
+        "parent": "World events",
+        "size": 1
+    },
+    {
+        "id": "US presidents & electionsexample",
+        "name": "23th president of usa",
+        "parent": "US presidents & elections",
+        "size": 1
+    },
+    {
+        "id": "Canadaexample",
+        "name": "how to migrate to canada with easy way",
+        "parent": "Canada",
+        "size": 1
+    },
+    {
+        "id": "Tell me about a placeexample",
+        "name": "is karlsruhe a good place to live?",
+        "parent": "Tell me about a place",
+        "size": 1
+    },
+    {
+        "id": "Write an analysisexample",
+        "name": "write a paper structure for the use of bim in turkey",
+        "parent": "Write an analysis",
+        "size": 1
+    },
+    {
+        "id": "Best places to live / local recommendationsexample",
+        "name": "how safe is the city of barcelona",
+        "parent": "Best places to live / local recommendations",
+        "size": 1
+    },
+    {
+        "id": "Where are you & I fromexample",
+        "name": "hello where are you?",
+        "parent": "Where are you & I from",
+        "size": 1
+    },
+    {
+        "id": "Time zonesexample",
+        "name": "what's the time now in toronto?",
+        "parent": "Time zones",
+        "size": 1
+    },
+    {
+        "id": "Tall buildings & towersexample",
+        "name": "how big is the eifel tower",
+        "parent": "Tall buildings & towers",
+        "size": 1
+    },
+    {
+        "id": "Russia & USSR (history)example",
+        "name": "tell the population of russia",
+        "parent": "Russia & USSR (history)",
+        "size": 1
+    },
+    {
+        "id": "Write a blog/social media postexample",
+        "name": "name_1 a blog on traveling across france",
+        "parent": "Write a blog/social media post",
+        "size": 1
+    },
+    {
+        "id": "Philippines & Malaysiaexample",
+        "name": "phillipines before 1946",
+        "parent": "Philippines & Malaysia",
+        "size": 1
+    },
+    {
+        "id": "Airportsexample",
+        "name": "hi, how can i fly from jfk to kbp?",
+        "parent": "Airports",
+        "size": 1
+    },
+    {
+        "id": "Israel & Palestineexample",
+        "name": "how did the palestine israel conflict start",
+        "parent": "Israel & Palestine",
+        "size": 1
+    },
+    {
+        "id": "Write a poemexample",
+        "name": "write a poem about cambridge",
+        "parent": "Write a poem",
+        "size": 1
+    },
+    {
+        "id": "Film/DVD release datesexample",
+        "name": "rio dvd usa debut date",
+        "parent": "Film/DVD release dates",
+        "size": 1
+    },
+    {
+        "id": "Singapore & Hong Kongexample",
+        "name": "what is singapore population",
+        "parent": "Singapore & Hong Kong",
+        "size": 1
+    },
+    {
+        "id": "Abandoned housesexample",
+        "name": "i found a abandoned neighborhood",
+        "parent": "Abandoned houses",
+        "size": 1
+    },
+    {
+        "id": "Germanyexample",
+        "name": "where is munich?",
+        "parent": "Germany",
+        "size": 1
+    },
+    {
+        "id": "Write a (university) application / cover letterexample",
+        "name": "write email address for uae schools hr department",
+        "parent": "Write a (university) application / cover letter",
+        "size": 1
+    },
+    {
+        "id": "Traffic & urban planningexample",
+        "name": "list impacts of streetcar to an urban area",
+        "parent": "Traffic & urban planning",
+        "size": 1
+    },
+    {
+        "id": "Vietnamexample",
+        "name": "tell me about rainer frey in vietnam",
+        "parent": "Vietnam",
+        "size": 1
+    },
+    {
+        "id": "US state laws (business focus)example",
+        "name": "best state for a family trust",
+        "parent": "US state laws (business focus)",
+        "size": 1
+    },
+    {
+        "id": "Koreaexample",
+        "name": "where is south korea?",
+        "parent": "Korea",
+        "size": 1
+    },
+    {
+        "id": "Flight booking & airfareexample",
+        "name": "i need a flight to london. i am in nyc.",
+        "parent": "Flight booking & airfare",
+        "size": 1
+    },
+    {
+        "id": "Pakistan & Bangladeshexample",
+        "name": "how pakistan can prosper",
+        "parent": "Pakistan & Bangladesh",
+        "size": 1
+    },
+    {
+        "id": "UK & French monarchs / heads of stateexample",
+        "name": "king of france in 2023",
+        "parent": "UK & French monarchs / heads of state",
+        "size": 1
+    },
+    {
+        "id": "Crime statisticsexample",
+        "name": "rank all usa states by crime rate",
+        "parent": "Crime statistics",
+        "size": 1
+    },
+    {
+        "id": "Censorship by countryexample",
+        "name": "what websites are banned in germany",
+        "parent": "Censorship by country",
+        "size": 1
+    },
+    {
+        "id": "Top places to visitexample",
+        "name": "the must-see places in nebraska",
+        "parent": "Top places to visit",
+        "size": 1
+    },
+    {
+        "id": "Food permitsexample",
+        "name": "how much does a restraining order in the state of gerogia cost?",
+        "parent": "Food permits",
+        "size": 1
+    },
+    {
+        "id": "Addresses and ZIP codesexample",
+        "name": "please show me different formats of street addresses in u.s.a",
+        "parent": "Addresses and ZIP codes",
+        "size": 1
+    },
+    {
+        "id": "Real estate prices & listingsexample",
+        "name": "what is the average rate of the hyatt regency san francisco?",
+        "parent": "Real estate prices & listings",
+        "size": 1
+    },
+    {
+        "id": "Religionexample",
+        "name": "what\u2019s the difference between a basilic and a cathedral",
+        "parent": "Religion",
+        "size": 1
+    },
+    {
+        "id": "Volcanoes, rocks, geologyexample",
+        "name": "what it the largest active volcano on earth?",
+        "parent": "Volcanoes, rocks, geology",
+        "size": 1
+    },
+    {
+        "id": "Nordicsexample",
+        "name": "is norway in sweden?",
+        "parent": "Nordics",
+        "size": 1
+    },
+    {
+        "id": "What if / hypothetical history scenariosexample",
+        "name": "what if yugoslavia still exist",
+        "parent": "What if / hypothetical history scenarios",
+        "size": 1
+    },
+    {
+        "id": "Iran & Egyptexample",
+        "name": "what is your openion about iran?",
+        "parent": "Iran & Egypt",
+        "size": 1
+    },
+    {
+        "id": "GeoGuessr & map projectionsexample",
+        "name": "what is cities skylines",
+        "parent": "GeoGuessr & map projections",
+        "size": 1
+    },
+    {
+        "id": "Australiaexample",
+        "name": "tell me about the history of tasmania",
+        "parent": "Australia",
+        "size": 1
+    },
+    {
+        "id": "Presidentsexample",
+        "name": "who is the leader of brazil",
+        "parent": "Presidents",
+        "size": 1
+    },
+    {
+        "id": "Write a review (hotel/resort)example",
+        "name": "write me a review for sunset plaza hotel",
+        "parent": "Write a review (hotel/resort)",
+        "size": 1
+    },
+    {
+        "id": "Recipes and regional cuisineexample",
+        "name": "what to do for dessert in 21901",
+        "parent": "Recipes and regional cuisine",
+        "size": 1
+    },
+    {
+        "id": "Write a (fake) news articleexample",
+        "name": "write a news article of roblox game brookhaven being taken down",
+        "parent": "Write a (fake) news article",
+        "size": 1
+    },
+    {
+        "id": "Professional licensingexample",
+        "name": "how to renew my florida massage therapists license?",
+        "parent": "Professional licensing",
+        "size": 1
+    },
+    {
+        "id": "US states and placesexample",
+        "name": "list of states of us",
+        "parent": "US states and places",
+        "size": 1
+    },
+    {
+        "id": "Turkeyexample",
+        "name": "biggest cctv installers in turkey",
+        "parent": "Turkey",
+        "size": 1
+    },
+    {
+        "id": "Property description & searchexample",
+        "name": "bohemian studio apartment with natural light and green plants",
+        "parent": "Property description & search",
+        "size": 1
+    },
+    {
+        "id": "Historical battles & warsexample",
+        "name": "tell me about the american civil war.",
+        "parent": "Historical battles & wars",
+        "size": 1
+    },
+    {
+        "id": "Network infrastructure by countryexample",
+        "name": "why is sweden internet speed mb fast?",
+        "parent": "Network infrastructure by country",
+        "size": 1
+    },
+    {
+        "id": "Write an essayexample",
+        "name": "write a limerick about new zealand",
+        "parent": "Write an essay",
+        "size": 1
+    },
+    {
+        "id": "US state lawsexample",
+        "name": "what's the weirdest law in south dakota?",
+        "parent": "US state laws",
+        "size": 1
+    },
+    {
+        "id": "Money & business adviceexample",
+        "name": "how to save money with low income in tamil",
+        "parent": "Money & business advice",
+        "size": 1
+    },
+    {
+        "id": "Flat-earth questionsexample",
+        "name": "is the eath flat?",
+        "parent": "Flat-earth questions",
+        "size": 1
+    },
+    {
+        "id": "Mexicoexample",
+        "name": "how do you like mexico?",
+        "parent": "Mexico",
+        "size": 1
+    },
+    {
+        "id": "Indonesiaexample",
+        "name": "tell me about privy indonesia",
+        "parent": "Indonesia",
+        "size": 1
+    },
+    {
+        "id": "Write a songexample",
+        "name": "write a rap song about russia",
+        "parent": "Write a song",
+        "size": 1
+    },
+    {
+        "id": "Cars (buying, popularity, licensing)example",
+        "name": "where can i buy a car in israel",
+        "parent": "Cars (buying, popularity, licensing)",
+        "size": 1
+    },
+    {
+        "id": "Accessing ChatGPT from blocked countriesexample",
+        "name": "how can i use chatgpt from china?",
+        "parent": "Accessing ChatGPT from blocked countries",
+        "size": 1
+    },
+    {
+        "id": "Polandexample",
+        "name": "what is the longest river in poland",
+        "parent": "Poland",
+        "size": 1
+    },
+    {
+        "id": "GDP & national economiesexample",
+        "name": "average household income in kalumbila district zambia",
+        "parent": "GDP & national economies",
+        "size": 1
+    },
+    {
+        "id": "Tell me a jokeexample",
+        "name": "make a joke about a german in toronto",
+        "parent": "Tell me a joke",
+        "size": 1
+    }
+]

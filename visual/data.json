@@ -11,29 +11,29 @@
         "colour": "#a6cee3"
     },
     {
-        "id": "Country-specific questions",
-        "name": "Country-specific questions",
+        "id": "Country-specific",
+        "name": "Country-specific",
         "parent": "root",
         "size": 2889,
         "colour": "#1f78b4"
     },
     {
-        "id": "Statistical",
-        "name": "Statistical",
+        "id": "Statistical*",
+        "name": "Statistical*",
         "parent": "root",
         "size": 1543,
         "colour": "#b2df8a"
     },
     {
-        "id": "Historical",
-        "name": "Historical",
+        "id": "Historical*",
+        "name": "Historical*",
         "parent": "root",
         "size": 1366,
         "colour": "#33a02c"
     },
     {
-        "id": "Physical",
-        "name": "Physical",
+        "id": "Physical*",
+        "name": "Physical*",
         "parent": "root",
         "size": 1150,
         "colour": "#fb9a99"
@@ -53,50 +53,50 @@
         "colour": "#fdbf6f"
     },
     {
-        "id": "POIs & Commercial",
-        "name": "POIs & Commercial",
+        "id": "POIs & Commercial*",
+        "name": "POIs & Commercial*",
         "parent": "root",
         "size": 942,
         "colour": "#ff7f00"
     },
     {
-        "id": "Temporal",
-        "name": "Temporal",
+        "id": "Temporal*",
+        "name": "Temporal*",
         "parent": "root",
         "size": 753,
         "colour": "#cab2d6"
     },
     {
-        "id": "Other",
-        "name": "Other",
+        "id": "Misc",
+        "name": "Misc",
         "parent": "root",
         "size": 719,
         "colour": "#6a3d9a"
     },
     {
-        "id": "Events",
-        "name": "Events",
+        "id": "Events*",
+        "name": "Events*",
         "parent": "root",
         "size": 692,
         "colour": "#cccccc"
     },
     {
-        "id": "Administrative",
-        "name": "Administrative",
+        "id": "Administrative*",
+        "name": "Administrative*",
         "parent": "root",
         "size": 530,
         "colour": "#b15928"
     },
     {
-        "id": "Biographical",
-        "name": "Biographical",
+        "id": "Biographical*",
+        "name": "Biographical*",
         "parent": "root",
         "size": 374,
         "colour": "#8dd3c7"
     },
     {
-        "id": "Cultural",
-        "name": "Cultural",
+        "id": "Cultural*",
+        "name": "Cultural*",
         "parent": "root",
         "size": 182,
         "colour": "#bc80bd"
@@ -111,14 +111,14 @@
     {
         "id": "China & Taiwan",
         "name": "China & Taiwan",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 916,
         "colour": "#1f78b4"
     },
     {
         "id": "Country rankings",
         "name": "Country rankings",
-        "parent": "Statistical",
+        "parent": "Statistical*",
         "size": 899,
         "colour": "#b2df8a"
     },
@@ -130,9 +130,9 @@
         "colour": "#e31a1c"
     },
     {
-        "id": "Weather & temperature",
-        "name": "Weather & temperature",
-        "parent": "Temporal",
+        "id": "Weather & temperature*",
+        "name": "Weather & temperature*",
+        "parent": "Temporal*",
         "size": 605,
         "colour": "#cab2d6"
     },
@@ -144,16 +144,16 @@
         "colour": "#a6cee3"
     },
     {
-        "id": "Planets & space",
-        "name": "Planets & space",
-        "parent": "Physical",
+        "id": "Planets & space*",
+        "name": "Planets & space*",
+        "parent": "Physical*",
         "size": 395,
         "colour": "#fb9a99"
     },
     {
         "id": "Capital cities",
         "name": "Capital cities",
-        "parent": "Administrative",
+        "parent": "Administrative*",
         "size": 390,
         "colour": "#b15928"
     },
@@ -165,37 +165,37 @@
         "colour": "#fdbf6f"
     },
     {
-        "id": "European history",
-        "name": "European history",
-        "parent": "Historical",
+        "id": "European history*",
+        "name": "European history*",
+        "parent": "Historical*",
         "size": 384,
         "colour": "#33a02c"
     },
     {
-        "id": "Birthplaces & residences",
-        "name": "Birthplaces & residences",
-        "parent": "Biographical",
+        "id": "Birthplaces & residences*",
+        "name": "Birthplaces & residences*",
+        "parent": "Biographical*",
         "size": 374,
         "colour": "#8dd3c7"
     },
     {
         "id": "Russia-Ukraine war",
         "name": "Russia-Ukraine war",
-        "parent": "Events",
+        "parent": "Events*",
         "size": 345,
         "colour": "#cccccc"
     },
     {
-        "id": "University rankings",
-        "name": "University rankings",
-        "parent": "Statistical",
+        "id": "University rankings*",
+        "name": "University rankings*",
+        "parent": "Statistical*",
         "size": 315,
         "colour": "#b2df8a"
     },
     {
         "id": "India",
         "name": "India",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 311,
         "colour": "#1f78b4"
     },
@@ -214,30 +214,30 @@
         "colour": "#fdbf6f"
     },
     {
-        "id": "Restaurants",
-        "name": "Restaurants",
-        "parent": "POIs & Commercial",
+        "id": "Restaurants*",
+        "name": "Restaurants*",
+        "parent": "POIs & Commercial*",
         "size": 266,
         "colour": "#ff7f00"
     },
     {
         "id": "Japan",
         "name": "Japan",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 239,
         "colour": "#1f78b4"
     },
     {
-        "id": "Oceans, water & hydrology",
-        "name": "Oceans, water & hydrology",
-        "parent": "Physical",
+        "id": "Oceans, water & hydrology*",
+        "name": "Oceans, water & hydrology*",
+        "parent": "Physical*",
         "size": 239,
         "colour": "#fb9a99"
     },
     {
-        "id": "Plants, animals & wildlife by region",
-        "name": "Plants, animals & wildlife by region",
-        "parent": "Physical",
+        "id": "Plants, animals & wildlife by region*",
+        "name": "Plants, animals & wildlife by region*",
+        "parent": "Physical*",
         "size": 216,
         "colour": "#fb9a99"
     },
@@ -251,72 +251,65 @@
     {
         "id": "Salaries and taxes by country",
         "name": "Salaries and taxes by country",
-        "parent": "Statistical",
+        "parent": "Statistical*",
         "size": 188,
         "colour": "#b2df8a"
     },
     {
-        "id": "US history",
-        "name": "US history",
-        "parent": "Historical",
+        "id": "US history*",
+        "name": "US history*",
+        "parent": "Historical*",
         "size": 188,
-        "colour": "#33a02c"
-    },
-    {
-        "id": "Prime ministers",
-        "name": "Prime ministers",
-        "parent": "Historical",
-        "size": 187,
         "colour": "#33a02c"
     },
     {
         "id": "Beach + social media copy",
         "name": "Beach + social media copy",
-        "parent": "Other",
+        "parent": "Misc",
         "size": 187,
         "colour": "#6a3d9a"
     },
     {
+        "id": "Prime ministers*",
+        "name": "Prime ministers*",
+        "parent": "Historical*",
+        "size": 187,
+        "colour": "#33a02c"
+    },
+    {
         "id": "Football results and predictions",
         "name": "Football results and predictions",
-        "parent": "Events",
+        "parent": "Events*",
         "size": 177,
         "colour": "#cccccc"
     },
     {
-        "id": "Mountains & elevation",
-        "name": "Mountains & elevation",
-        "parent": "Physical",
+        "id": "Mountains & elevation*",
+        "name": "Mountains & elevation*",
+        "parent": "Physical*",
         "size": 171,
         "colour": "#fb9a99"
     },
     {
         "id": "World events",
         "name": "World events",
-        "parent": "Events",
+        "parent": "Events*",
         "size": 170,
         "colour": "#cccccc"
     },
     {
-        "id": "US presidents & elections",
-        "name": "US presidents & elections",
-        "parent": "Historical",
+        "id": "US presidents & elections*",
+        "name": "US presidents & elections*",
+        "parent": "Historical*",
         "size": 169,
         "colour": "#33a02c"
     },
     {
         "id": "Canada",
         "name": "Canada",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 167,
         "colour": "#1f78b4"
-    },
-    {
-        "id": "Tell me about a place",
-        "name": "Tell me about a place",
-        "parent": "Writing and ideation",
-        "size": 158,
-        "colour": "#a6cee3"
     },
     {
         "id": "Write an analysis",
@@ -333,30 +326,37 @@
         "colour": "#e31a1c"
     },
     {
+        "id": "Tell me about a place",
+        "name": "Tell me about a place",
+        "parent": "Writing and ideation",
+        "size": 158,
+        "colour": "#a6cee3"
+    },
+    {
         "id": "Where are you & I from",
         "name": "Where are you & I from",
-        "parent": "Other",
+        "parent": "Misc",
         "size": 156,
         "colour": "#6a3d9a"
     },
     {
-        "id": "Time zones",
-        "name": "Time zones",
-        "parent": "Temporal",
+        "id": "Time zones*",
+        "name": "Time zones*",
+        "parent": "Temporal*",
         "size": 148,
         "colour": "#cab2d6"
     },
     {
-        "id": "Tall buildings & towers",
-        "name": "Tall buildings & towers",
-        "parent": "POIs & Commercial",
+        "id": "Tall buildings & towers*",
+        "name": "Tall buildings & towers*",
+        "parent": "POIs & Commercial*",
         "size": 147,
         "colour": "#ff7f00"
     },
     {
         "id": "Russia & USSR (history)",
         "name": "Russia & USSR (history)",
-        "parent": "Historical",
+        "parent": "Historical*",
         "size": 145,
         "colour": "#33a02c"
     },
@@ -370,21 +370,21 @@
     {
         "id": "Philippines & Malaysia",
         "name": "Philippines & Malaysia",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 130,
         "colour": "#1f78b4"
     },
     {
-        "id": "Airports",
-        "name": "Airports",
-        "parent": "POIs & Commercial",
+        "id": "Airports*",
+        "name": "Airports*",
+        "parent": "POIs & Commercial*",
         "size": 128,
         "colour": "#ff7f00"
     },
     {
         "id": "Israel & Palestine",
         "name": "Israel & Palestine",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 122,
         "colour": "#1f78b4"
     },
@@ -398,49 +398,49 @@
     {
         "id": "Film/DVD release dates",
         "name": "Film/DVD release dates",
-        "parent": "Cultural",
+        "parent": "Cultural*",
         "size": 115,
         "colour": "#bc80bd"
     },
     {
         "id": "Singapore & Hong Kong",
         "name": "Singapore & Hong Kong",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 112,
         "colour": "#1f78b4"
     },
     {
         "id": "Abandoned houses",
         "name": "Abandoned houses",
-        "parent": "POIs & Commercial",
+        "parent": "POIs & Commercial*",
         "size": 111,
         "colour": "#ff7f00"
     },
     {
-        "id": "Germany",
-        "name": "Germany",
-        "parent": "Country-specific questions",
-        "size": 106,
-        "colour": "#1f78b4"
-    },
-    {
-        "id": "Write a (university) application / cover letter",
-        "name": "Write a (university) application / cover letter",
+        "id": "Write an application / cover letter",
+        "name": "Write an application / cover letter",
         "parent": "Writing and ideation",
         "size": 106,
         "colour": "#a6cee3"
     },
     {
+        "id": "Germany",
+        "name": "Germany",
+        "parent": "Country-specific",
+        "size": 106,
+        "colour": "#1f78b4"
+    },
+    {
         "id": "Traffic & urban planning",
         "name": "Traffic & urban planning",
-        "parent": "Other",
+        "parent": "Misc",
         "size": 106,
         "colour": "#6a3d9a"
     },
     {
         "id": "Vietnam",
         "name": "Vietnam",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 103,
         "colour": "#1f78b4"
     },
@@ -454,51 +454,44 @@
     {
         "id": "Korea",
         "name": "Korea",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 96,
         "colour": "#1f78b4"
     },
     {
         "id": "Flight booking & airfare",
         "name": "Flight booking & airfare",
-        "parent": "POIs & Commercial",
+        "parent": "POIs & Commercial*",
         "size": 96,
         "colour": "#ff7f00"
     },
     {
         "id": "Pakistan & Bangladesh",
         "name": "Pakistan & Bangladesh",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 91,
         "colour": "#1f78b4"
     },
     {
-        "id": "UK & French monarchs / heads of state",
-        "name": "UK & French monarchs / heads of state",
-        "parent": "Historical",
+        "id": "UK & French monarchs / heads of state*",
+        "name": "UK & French monarchs / heads of state*",
+        "parent": "Historical*",
         "size": 89,
         "colour": "#33a02c"
     },
     {
         "id": "Crime statistics",
         "name": "Crime statistics",
-        "parent": "Statistical",
+        "parent": "Statistical*",
         "size": 88,
         "colour": "#b2df8a"
     },
     {
         "id": "Censorship by country",
         "name": "Censorship by country",
-        "parent": "Other",
+        "parent": "Misc",
         "size": 88,
         "colour": "#6a3d9a"
-    },
-    {
-        "id": "Top places to visit",
-        "name": "Top places to visit",
-        "parent": "Trip planning",
-        "size": 87,
-        "colour": "#e31a1c"
     },
     {
         "id": "Food permits",
@@ -508,37 +501,44 @@
         "colour": "#fdbf6f"
     },
     {
-        "id": "Addresses and ZIP codes",
-        "name": "Addresses and ZIP codes",
-        "parent": "Administrative",
+        "id": "Top places to visit",
+        "name": "Top places to visit",
+        "parent": "Trip planning",
+        "size": 87,
+        "colour": "#e31a1c"
+    },
+    {
+        "id": "Addresses and ZIP codes*",
+        "name": "Addresses and ZIP codes*",
+        "parent": "Administrative*",
         "size": 76,
         "colour": "#b15928"
     },
     {
         "id": "Real estate prices & listings",
         "name": "Real estate prices & listings",
-        "parent": "POIs & Commercial",
+        "parent": "POIs & Commercial*",
         "size": 75,
         "colour": "#ff7f00"
     },
     {
         "id": "Religion",
         "name": "Religion",
-        "parent": "Historical",
+        "parent": "Historical*",
         "size": 73,
         "colour": "#33a02c"
     },
     {
-        "id": "Volcanoes, rocks, geology",
-        "name": "Volcanoes, rocks, geology",
-        "parent": "Physical",
+        "id": "Volcanoes, rocks, geology*",
+        "name": "Volcanoes, rocks, geology*",
+        "parent": "Physical*",
         "size": 73,
         "colour": "#fb9a99"
     },
     {
         "id": "Nordics",
         "name": "Nordics",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 70,
         "colour": "#1f78b4"
     },
@@ -552,28 +552,28 @@
     {
         "id": "Iran & Egypt",
         "name": "Iran & Egypt",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 69,
         "colour": "#1f78b4"
     },
     {
         "id": "GeoGuessr & map projections",
         "name": "GeoGuessr & map projections",
-        "parent": "Other",
+        "parent": "Misc",
         "size": 68,
         "colour": "#6a3d9a"
     },
     {
         "id": "Australia",
         "name": "Australia",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 68,
         "colour": "#1f78b4"
     },
     {
-        "id": "Presidents",
-        "name": "Presidents",
-        "parent": "Historical",
+        "id": "Presidents*",
+        "name": "Presidents*",
+        "parent": "Historical*",
         "size": 68,
         "colour": "#33a02c"
     },
@@ -587,7 +587,7 @@
     {
         "id": "Recipes and regional cuisine",
         "name": "Recipes and regional cuisine",
-        "parent": "Cultural",
+        "parent": "Cultural*",
         "size": 67,
         "colour": "#bc80bd"
     },
@@ -608,35 +608,35 @@
     {
         "id": "US states and places",
         "name": "US states and places",
-        "parent": "Administrative",
+        "parent": "Administrative*",
         "size": 64,
         "colour": "#b15928"
     },
     {
         "id": "Turkey",
         "name": "Turkey",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 64,
         "colour": "#1f78b4"
     },
     {
         "id": "Property description & search",
         "name": "Property description & search",
-        "parent": "POIs & Commercial",
+        "parent": "POIs & Commercial*",
         "size": 64,
         "colour": "#ff7f00"
     },
     {
-        "id": "Historical battles & wars",
-        "name": "Historical battles & wars",
-        "parent": "Historical",
+        "id": "Historical battles & wars*",
+        "name": "Historical battles & wars*",
+        "parent": "Historical*",
         "size": 63,
         "colour": "#33a02c"
     },
     {
         "id": "Network infrastructure by country",
         "name": "Network infrastructure by country",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 62,
         "colour": "#1f78b4"
     },
@@ -650,7 +650,7 @@
     {
         "id": "US state laws",
         "name": "US state laws",
-        "parent": "Other",
+        "parent": "Misc",
         "size": 60,
         "colour": "#6a3d9a"
     },
@@ -664,21 +664,21 @@
     {
         "id": "Flat-earth questions",
         "name": "Flat-earth questions",
-        "parent": "Physical",
+        "parent": "Physical*",
         "size": 56,
         "colour": "#fb9a99"
     },
     {
         "id": "Mexico",
         "name": "Mexico",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 55,
         "colour": "#1f78b4"
     },
     {
         "id": "Indonesia",
         "name": "Indonesia",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 55,
         "colour": "#1f78b4"
     },
@@ -692,28 +692,28 @@
     {
         "id": "Cars (buying, popularity, licensing)",
         "name": "Cars (buying, popularity, licensing)",
-        "parent": "POIs & Commercial",
+        "parent": "POIs & Commercial*",
         "size": 55,
         "colour": "#ff7f00"
     },
     {
         "id": "Accessing ChatGPT from blocked countries",
         "name": "Accessing ChatGPT from blocked countries",
-        "parent": "Other",
+        "parent": "Misc",
         "size": 54,
         "colour": "#6a3d9a"
     },
     {
         "id": "Poland",
         "name": "Poland",
-        "parent": "Country-specific questions",
+        "parent": "Country-specific",
         "size": 53,
         "colour": "#1f78b4"
     },
     {
-        "id": "GDP & national economies",
-        "name": "GDP & national economies",
-        "parent": "Statistical",
+        "id": "GDP & national economies*",
+        "name": "GDP & national economies*",
+        "parent": "Statistical*",
         "size": 53,
         "colour": "#b2df8a"
     },
@@ -749,9 +749,9 @@
         "size": 1
     },
     {
-        "id": "Weather & temperatureexample",
+        "id": "Weather & temperature*example",
         "name": "autumn temperature in bukayriyah",
-        "parent": "Weather & temperature",
+        "parent": "Weather & temperature*",
         "size": 1
     },
     {
@@ -761,9 +761,9 @@
         "size": 1
     },
     {
-        "id": "Planets & spaceexample",
+        "id": "Planets & space*example",
         "name": "what planet is between mercury and venus?",
-        "parent": "Planets & space",
+        "parent": "Planets & space*",
         "size": 1
     },
     {
@@ -779,15 +779,15 @@
         "size": 1
     },
     {
-        "id": "European historyexample",
+        "id": "European history*example",
         "name": "write me a small essay on georgian politics (country)",
-        "parent": "European history",
+        "parent": "European history*",
         "size": 1
     },
     {
-        "id": "Birthplaces & residencesexample",
+        "id": "Birthplaces & residences*example",
         "name": "katy from letterkenny",
-        "parent": "Birthplaces & residences",
+        "parent": "Birthplaces & residences*",
         "size": 1
     },
     {
@@ -797,9 +797,9 @@
         "size": 1
     },
     {
-        "id": "University rankingsexample",
+        "id": "University rankings*example",
         "name": "describe the national university of singapore",
-        "parent": "University rankings",
+        "parent": "University rankings*",
         "size": 1
     },
     {
@@ -821,9 +821,9 @@
         "size": 1
     },
     {
-        "id": "Restaurantsexample",
+        "id": "Restaurants*example",
         "name": "best place to eat in omaha, ne",
-        "parent": "Restaurants",
+        "parent": "Restaurants*",
         "size": 1
     },
     {
@@ -833,15 +833,15 @@
         "size": 1
     },
     {
-        "id": "Oceans, water & hydrologyexample",
+        "id": "Oceans, water & hydrology*example",
         "name": "name all the oceans",
-        "parent": "Oceans, water & hydrology",
+        "parent": "Oceans, water & hydrology*",
         "size": 1
     },
     {
-        "id": "Plants, animals & wildlife by regionexample",
+        "id": "Plants, animals & wildlife by region*example",
         "name": "any evidence that coconuts can ripen in marbella, spain?",
-        "parent": "Plants, animals & wildlife by region",
+        "parent": "Plants, animals & wildlife by region*",
         "size": 1
     },
     {
@@ -857,15 +857,9 @@
         "size": 1
     },
     {
-        "id": "US historyexample",
+        "id": "US history*example",
         "name": "who discovered the north american continent?",
-        "parent": "US history",
-        "size": 1
-    },
-    {
-        "id": "Prime ministersexample",
-        "name": "who is the pm of australia?",
-        "parent": "Prime ministers",
+        "parent": "US history*",
         "size": 1
     },
     {
@@ -875,15 +869,21 @@
         "size": 1
     },
     {
+        "id": "Prime ministers*example",
+        "name": "who is the pm of australia?",
+        "parent": "Prime ministers*",
+        "size": 1
+    },
+    {
         "id": "Football results and predictionsexample",
         "name": "what is the biggest club in manchester?",
         "parent": "Football results and predictions",
         "size": 1
     },
     {
-        "id": "Mountains & elevationexample",
+        "id": "Mountains & elevation*example",
         "name": "what is the highest point in mongolia",
-        "parent": "Mountains & elevation",
+        "parent": "Mountains & elevation*",
         "size": 1
     },
     {
@@ -893,21 +893,15 @@
         "size": 1
     },
     {
-        "id": "US presidents & electionsexample",
+        "id": "US presidents & elections*example",
         "name": "23th president of usa",
-        "parent": "US presidents & elections",
+        "parent": "US presidents & elections*",
         "size": 1
     },
     {
         "id": "Canadaexample",
         "name": "how to migrate to canada with easy way",
         "parent": "Canada",
-        "size": 1
-    },
-    {
-        "id": "Tell me about a placeexample",
-        "name": "is karlsruhe a good place to live?",
-        "parent": "Tell me about a place",
         "size": 1
     },
     {
@@ -923,21 +917,27 @@
         "size": 1
     },
     {
+        "id": "Tell me about a placeexample",
+        "name": "is karlsruhe a good place to live?",
+        "parent": "Tell me about a place",
+        "size": 1
+    },
+    {
         "id": "Where are you & I fromexample",
         "name": "hello where are you?",
         "parent": "Where are you & I from",
         "size": 1
     },
     {
-        "id": "Time zonesexample",
+        "id": "Time zones*example",
         "name": "what's the time now in toronto?",
-        "parent": "Time zones",
+        "parent": "Time zones*",
         "size": 1
     },
     {
-        "id": "Tall buildings & towersexample",
+        "id": "Tall buildings & towers*example",
         "name": "how big is the eifel tower",
-        "parent": "Tall buildings & towers",
+        "parent": "Tall buildings & towers*",
         "size": 1
     },
     {
@@ -959,9 +959,9 @@
         "size": 1
     },
     {
-        "id": "Airportsexample",
+        "id": "Airports*example",
         "name": "hi, how can i fly from jfk to kbp?",
-        "parent": "Airports",
+        "parent": "Airports*",
         "size": 1
     },
     {
@@ -995,15 +995,15 @@
         "size": 1
     },
     {
-        "id": "Germanyexample",
-        "name": "where is munich?",
-        "parent": "Germany",
+        "id": "Write an application / cover letterexample",
+        "name": "write email address for uae schools hr department",
+        "parent": "Write an application / cover letter",
         "size": 1
     },
     {
-        "id": "Write a (university) application / cover letterexample",
-        "name": "write email address for uae schools hr department",
-        "parent": "Write a (university) application / cover letter",
+        "id": "Germanyexample",
+        "name": "where is munich?",
+        "parent": "Germany",
         "size": 1
     },
     {
@@ -1043,9 +1043,9 @@
         "size": 1
     },
     {
-        "id": "UK & French monarchs / heads of stateexample",
+        "id": "UK & French monarchs / heads of state*example",
         "name": "king of france in 2023",
-        "parent": "UK & French monarchs / heads of state",
+        "parent": "UK & French monarchs / heads of state*",
         "size": 1
     },
     {
@@ -1061,21 +1061,21 @@
         "size": 1
     },
     {
-        "id": "Top places to visitexample",
-        "name": "the must-see places in nebraska",
-        "parent": "Top places to visit",
-        "size": 1
-    },
-    {
         "id": "Food permitsexample",
         "name": "how much does a restraining order in the state of gerogia cost?",
         "parent": "Food permits",
         "size": 1
     },
     {
-        "id": "Addresses and ZIP codesexample",
+        "id": "Top places to visitexample",
+        "name": "the must-see places in nebraska",
+        "parent": "Top places to visit",
+        "size": 1
+    },
+    {
+        "id": "Addresses and ZIP codes*example",
         "name": "please show me different formats of street addresses in u.s.a",
-        "parent": "Addresses and ZIP codes",
+        "parent": "Addresses and ZIP codes*",
         "size": 1
     },
     {
@@ -1091,9 +1091,9 @@
         "size": 1
     },
     {
-        "id": "Volcanoes, rocks, geologyexample",
+        "id": "Volcanoes, rocks, geology*example",
         "name": "what it the largest active volcano on earth?",
-        "parent": "Volcanoes, rocks, geology",
+        "parent": "Volcanoes, rocks, geology*",
         "size": 1
     },
     {
@@ -1127,9 +1127,9 @@
         "size": 1
     },
     {
-        "id": "Presidentsexample",
+        "id": "Presidents*example",
         "name": "who is the leader of brazil",
-        "parent": "Presidents",
+        "parent": "Presidents*",
         "size": 1
     },
     {
@@ -1175,9 +1175,9 @@
         "size": 1
     },
     {
-        "id": "Historical battles & warsexample",
+        "id": "Historical battles & wars*example",
         "name": "tell me about the american civil war.",
-        "parent": "Historical battles & wars",
+        "parent": "Historical battles & wars*",
         "size": 1
     },
     {
@@ -1247,9 +1247,9 @@
         "size": 1
     },
     {
-        "id": "GDP & national economiesexample",
+        "id": "GDP & national economies*example",
         "name": "average household income in kalumbila district zambia",
-        "parent": "GDP & national economies",
+        "parent": "GDP & national economies*",
         "size": 1
     },
     {

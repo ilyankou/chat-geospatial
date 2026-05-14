@@ -20,13 +20,15 @@
   <script>
     var spec = {
       "$schema": "https://vega.github.io/schema/vega/v5.json",
-      "width": 600,
+      "width": 750,
       "height": 1000,
       "padding": {"left": 0, "right": 0, "top": 0, "bottom": 0},
 
       "signals": [
-        {"name": "treeWidth", "value": 600},
-        {"name": "offset", "update": "treeWidth / 2"}
+        {"name": "treeWidth", "value": 500},
+        {"name": "x1", "value": 5},
+        {"name": "x2", "value": 100},
+        {"name": "x3", "value": 280}
       ],
 
       "data": [
@@ -37,15 +39,16 @@
             {
               "type": "stratify",
               "key": "id",
-              "parentKey": "parent"
+              "parentKey": "parent",
             },
             {
               "type": "tree",
               "method": "tidy",
               "size": [{"signal": "height"}, {"signal": "treeWidth"}],
+              "as": ["y", "x", "depth", "children"],
               "separation": true,
-              "as": ["y", "x", "depth", "children"]
             },
+            {"type": "formula", "expr": "datum.depth === 1 ? x1 : datum.depth === 2 ? x2 : datum.depth === 3 ? x3 : 0", "as": "x"},
             {"type": "joinaggregate", "groupby": ["parent"], "fields": ["y"], "ops": ["min"], "as": ["minYInGroup"]},
             {"type": "formula", "expr": "datum.depth === 2 ? (datum.size / 30879 * 100 < 1 ? '' : slice(format(datum.size / 30879 * 100, '.1f'), 0, -2)) : ''", "as": "pctInt"},
             {"type": "formula", "expr": "datum.depth === 2 ? '.' + slice(format(datum.size / 30879 * 100, '.1f'), -1) + (datum.y === datum.minYInGroup ? '%' : '') : ''", "as": "pctDec"}
@@ -57,9 +60,9 @@
           "transform": [
             { "type": "treelinks" },
             { "type": "filter", "expr": "datum.source.depth > 0 && datum.target.depth < 3" },
-            { "type": "formula", "expr": "datum.source.x - offset", "as": "_sx" },
+            { "type": "formula", "expr": "datum.source.x", "as": "_sx" },
             { "type": "formula", "expr": "datum.source.y", "as": "_sy" },
-            { "type": "formula", "expr": "datum.target.x - offset", "as": "_tx" },
+            { "type": "formula", "expr": "datum.target.x", "as": "_tx" },
             { "type": "formula", "expr": "datum.target.y", "as": "_ty" },
             {
               "type": "linkpath",
@@ -94,7 +97,7 @@
               "strokeWidth": {"value": 0.75}
             },
             "update": {
-              "x": {"signal": "datum.x - offset"},
+              "x": {"field": "x"},
               "y": {"field": "y"},
               "size": {"signal": "datum.depth === 0 ? 0 : datum.depth === 1 ? pow(datum.size, 0.75) * 30 : pow(datum.size, 0.75) * 3"},
               "fill": {"signal": "datum.colour || '#999'"},
@@ -115,7 +118,7 @@
               "fill": {"value": "#333"}
             },
             "update": {
-              "x": {"signal": "datum.x - offset"},
+              "x": {"field": "x"},
               "y": {"field": "y"},
               "text": {"field": "pctInt"},
               "dx": {"value": 28},
@@ -135,7 +138,7 @@
               "fill": {"value": "#333"}
             },
             "update": {
-              "x": {"signal": "datum.x - offset"},
+              "x": {"field": "x"},
               "y": {"field": "y"},
               "text": {"field": "pctDec"},
               "dx": {"value": 28},
@@ -154,7 +157,7 @@
               "fill": {"value": "#333"}
             },
             "update": {
-              "x": {"signal": "datum.x - offset"},
+              "x": {"field": "x"},
               "y": {"field": "y"},
               "text": {"field": "name"},
               "dx": {"signal": "datum.depth === 1 ? 0 : 52"},
@@ -177,7 +180,7 @@
               "fill": {"value": "#333"}
             },
             "update": {
-              "x": {"signal": "datum.x - offset"},
+              "x": {"field": "x"},
               "y": {"field": "y"},
               "dy": {"value": 7},
               "text": {"signal": "datum.depth === 1 ? format(datum.size / 30879 * 100, '.1f') + '%' : ''"},

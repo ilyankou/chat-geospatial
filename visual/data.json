@@ -113,7 +113,7 @@
         "name": "China & Taiwan",
         "parent": "Country-specific",
         "size": 916,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Country rankings",
@@ -134,7 +134,7 @@
         "name": "Weather & temperature*",
         "parent": "Temporal*",
         "size": 605,
-        "colour": "#cab2d6"
+        "colour": "#999"
     },
     {
         "id": "Fictional world building",
@@ -148,7 +148,7 @@
         "name": "Planets & space*",
         "parent": "Physical*",
         "size": 395,
-        "colour": "#fb9a99"
+        "colour": "#999"
     },
     {
         "id": "Capital cities",
@@ -169,14 +169,14 @@
         "name": "European history*",
         "parent": "Historical*",
         "size": 384,
-        "colour": "#33a02c"
+        "colour": "#999"
     },
     {
         "id": "Birthplaces & residences*",
         "name": "Birthplaces & residences*",
         "parent": "Biographical*",
         "size": 374,
-        "colour": "#8dd3c7"
+        "colour": "#999"
     },
     {
         "id": "Russia-Ukraine war",
@@ -190,14 +190,14 @@
         "name": "University rankings*",
         "parent": "Statistical*",
         "size": 315,
-        "colour": "#b2df8a"
+        "colour": "#999"
     },
     {
         "id": "India",
         "name": "India",
         "parent": "Country-specific",
         "size": 311,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Write a short story",
@@ -218,28 +218,28 @@
         "name": "Restaurants*",
         "parent": "POIs & Commercial*",
         "size": 266,
-        "colour": "#ff7f00"
+        "colour": "#999"
     },
     {
         "id": "Japan",
         "name": "Japan",
         "parent": "Country-specific",
         "size": 239,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Oceans, water & hydrology*",
         "name": "Oceans, water & hydrology*",
         "parent": "Physical*",
         "size": 239,
-        "colour": "#fb9a99"
+        "colour": "#999"
     },
     {
         "id": "Plants, animals & wildlife by region*",
         "name": "Plants, animals & wildlife by region*",
         "parent": "Physical*",
         "size": 216,
-        "colour": "#fb9a99"
+        "colour": "#999"
     },
     {
         "id": "Image-generation prompts",
@@ -260,7 +260,7 @@
         "name": "US history*",
         "parent": "Historical*",
         "size": 188,
-        "colour": "#33a02c"
+        "colour": "#999"
     },
     {
         "id": "Beach + social media copy",
@@ -274,7 +274,7 @@
         "name": "Prime ministers*",
         "parent": "Historical*",
         "size": 187,
-        "colour": "#33a02c"
+        "colour": "#999"
     },
     {
         "id": "Football results and predictions",
@@ -288,7 +288,7 @@
         "name": "Mountains & elevation*",
         "parent": "Physical*",
         "size": 171,
-        "colour": "#fb9a99"
+        "colour": "#999"
     },
     {
         "id": "World events",
@@ -302,14 +302,14 @@
         "name": "US presidents & elections*",
         "parent": "Historical*",
         "size": 169,
-        "colour": "#33a02c"
+        "colour": "#999"
     },
     {
         "id": "Canada",
         "name": "Canada",
         "parent": "Country-specific",
         "size": 167,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Write an analysis",
@@ -344,14 +344,14 @@
         "name": "Time zones*",
         "parent": "Temporal*",
         "size": 148,
-        "colour": "#cab2d6"
+        "colour": "#999"
     },
     {
         "id": "Tall buildings & towers*",
         "name": "Tall buildings & towers*",
         "parent": "POIs & Commercial*",
         "size": 147,
-        "colour": "#ff7f00"
+        "colour": "#999"
     },
     {
         "id": "Russia & USSR (history)",
@@ -372,21 +372,21 @@
         "name": "Philippines & Malaysia",
         "parent": "Country-specific",
         "size": 130,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Airports*",
         "name": "Airports*",
         "parent": "POIs & Commercial*",
         "size": 128,
-        "colour": "#ff7f00"
+        "colour": "#999"
     },
     {
         "id": "Israel & Palestine",
         "name": "Israel & Palestine",
         "parent": "Country-specific",
         "size": 122,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Write a poem",
@@ -407,7 +407,7 @@
         "name": "Singapore & Hong Kong",
         "parent": "Country-specific",
         "size": 112,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Abandoned houses",
@@ -428,7 +428,7 @@
         "name": "Germany",
         "parent": "Country-specific",
         "size": 106,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Traffic & urban planning",
@@ -442,7 +442,7 @@
         "name": "Vietnam",
         "parent": "Country-specific",
         "size": 103,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "US state laws (business focus)",
@@ -456,7 +456,7 @@
         "name": "Korea",
         "parent": "Country-specific",
         "size": 96,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Flight booking & airfare",
@@ -470,14 +470,14 @@
         "name": "Pakistan & Bangladesh",
         "parent": "Country-specific",
         "size": 91,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "UK & French monarchs / heads of state*",
         "name": "UK & French monarchs / heads of state*",
         "parent": "Historical*",
         "size": 89,
-        "colour": "#33a02c"
+        "colour": "#999"
     },
     {
         "id": "Crime statistics",
@@ -512,7 +512,7 @@
         "name": "Addresses and ZIP codes*",
         "parent": "Administrative*",
         "size": 76,
-        "colour": "#b15928"
+        "colour": "#999"
     },
     {
         "id": "Real estate prices & listings",
@@ -533,14 +533,14 @@
         "name": "Volcanoes, rocks, geology*",
         "parent": "Physical*",
         "size": 73,
-        "colour": "#fb9a99"
+        "colour": "#999"
     },
     {
         "id": "Nordics",
         "name": "Nordics",
         "parent": "Country-specific",
         "size": 70,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "What if / hypothetical history scenarios",
@@ -554,7 +554,7 @@
         "name": "Iran & Egypt",
         "parent": "Country-specific",
         "size": 69,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "GeoGuessr & map projections",
@@ -568,14 +568,14 @@
         "name": "Australia",
         "parent": "Country-specific",
         "size": 68,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Presidents*",
         "name": "Presidents*",
         "parent": "Historical*",
         "size": 68,
-        "colour": "#33a02c"
+        "colour": "#999"
     },
     {
         "id": "Write a review (hotel/resort)",
@@ -617,7 +617,7 @@
         "name": "Turkey",
         "parent": "Country-specific",
         "size": 64,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Property description & search",
@@ -631,14 +631,14 @@
         "name": "Historical battles & wars*",
         "parent": "Historical*",
         "size": 63,
-        "colour": "#33a02c"
+        "colour": "#999"
     },
     {
         "id": "Network infrastructure by country",
         "name": "Network infrastructure by country",
         "parent": "Country-specific",
         "size": 62,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Write an essay",
@@ -673,14 +673,14 @@
         "name": "Mexico",
         "parent": "Country-specific",
         "size": 55,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Indonesia",
         "name": "Indonesia",
         "parent": "Country-specific",
         "size": 55,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "Write a song",
@@ -708,14 +708,14 @@
         "name": "Poland",
         "parent": "Country-specific",
         "size": 53,
-        "colour": "#1f78b4"
+        "colour": "#999"
     },
     {
         "id": "GDP & national economies*",
         "name": "GDP & national economies*",
         "parent": "Statistical*",
         "size": 53,
-        "colour": "#b2df8a"
+        "colour": "#999"
     },
     {
         "id": "Tell me a joke",

@@ -103,6 +103,7 @@
               "fill": {"signal": "datum.colour || '#999'"},
               "fillOpacity": {"signal": "datum.depth === 1 ? 0.3 : 0"},
               "stroke": {"signal": "datum.depth === 2 ? (datum.colour || '#999') : '#fff'"},
+              "strokeWidth": {"signal": "datum.depth === 2 & datum.colour !== '#999' ? 1.75 : 0.75"},
               "strokeOpacity": {"signal": "datum.depth === 2 ? 1 : 0"}
             }
           }

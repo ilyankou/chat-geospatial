@@ -4,8 +4,8 @@
         "name": "Geospatial first turns"
     },
     {
-        "id": "Writing and ideation",
-        "name": "Writing and ideation",
+        "id": "Writing & ideation",
+        "name": "Writing & ideation",
         "parent": "root",
         "size": 3348,
         "colour": "#a6cee3"
@@ -104,7 +104,7 @@
     {
         "id": "Write a script (university/college focus)",
         "name": "Write a script (university/college focus)",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 1285,
         "colour": "#a6cee3"
     },
@@ -139,7 +139,7 @@
     {
         "id": "Fictional world building",
         "name": "Fictional world building",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 501,
         "colour": "#a6cee3"
     },
@@ -202,7 +202,7 @@
     {
         "id": "Write a short story",
         "name": "Write a short story",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 305,
         "colour": "#a6cee3"
     },
@@ -244,7 +244,7 @@
     {
         "id": "Image-generation prompts",
         "name": "Image-generation prompts",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 206,
         "colour": "#a6cee3"
     },
@@ -314,7 +314,7 @@
     {
         "id": "Write an analysis",
         "name": "Write an analysis",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 158,
         "colour": "#a6cee3"
     },
@@ -328,7 +328,7 @@
     {
         "id": "Tell me about a place",
         "name": "Tell me about a place",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 158,
         "colour": "#a6cee3"
     },
@@ -363,7 +363,7 @@
     {
         "id": "Write a blog/social media post",
         "name": "Write a blog/social media post",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 140,
         "colour": "#a6cee3"
     },
@@ -391,7 +391,7 @@
     {
         "id": "Write a poem",
         "name": "Write a poem",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 120,
         "colour": "#a6cee3"
     },
@@ -419,7 +419,7 @@
     {
         "id": "Write an application / cover letter",
         "name": "Write an application / cover letter",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 106,
         "colour": "#a6cee3"
     },
@@ -473,8 +473,8 @@
         "colour": "#999"
     },
     {
-        "id": "UK & French monarchs / heads of state*",
-        "name": "UK & French monarchs / heads of state*",
+        "id": "Kings and monarchs*",
+        "name": "Kings and monarchs*",
         "parent": "Historical*",
         "size": 89,
         "colour": "#999"
@@ -545,7 +545,7 @@
     {
         "id": "What if / hypothetical history scenarios",
         "name": "What if / hypothetical history scenarios",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 69,
         "colour": "#a6cee3"
     },
@@ -580,7 +580,7 @@
     {
         "id": "Write a review (hotel/resort)",
         "name": "Write a review (hotel/resort)",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 67,
         "colour": "#a6cee3"
     },
@@ -594,7 +594,7 @@
     {
         "id": "Write a (fake) news article",
         "name": "Write a (fake) news article",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 67,
         "colour": "#a6cee3"
     },
@@ -643,7 +643,7 @@
     {
         "id": "Write an essay",
         "name": "Write an essay",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 61,
         "colour": "#a6cee3"
     },
@@ -685,7 +685,7 @@
     {
         "id": "Write a song",
         "name": "Write a song",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 55,
         "colour": "#a6cee3"
     },
@@ -711,16 +711,16 @@
         "colour": "#999"
     },
     {
-        "id": "GDP & national economies*",
-        "name": "GDP & national economies*",
+        "id": "GDP & national economies",
+        "name": "GDP & national economies",
         "parent": "Statistical*",
         "size": 53,
-        "colour": "#999"
+        "colour": "#b2df8a"
     },
     {
         "id": "Tell me a joke",
         "name": "Tell me a joke",
-        "parent": "Writing and ideation",
+        "parent": "Writing & ideation",
         "size": 50,
         "colour": "#a6cee3"
     },
@@ -1043,9 +1043,9 @@
         "size": 1
     },
     {
-        "id": "UK & French monarchs / heads of state*example",
+        "id": "Kings and monarchs*example",
         "name": "king of france in 2023",
-        "parent": "UK & French monarchs / heads of state*",
+        "parent": "Kings and monarchs*",
         "size": 1
     },
     {
@@ -1247,9 +1247,9 @@
         "size": 1
     },
     {
-        "id": "GDP & national economies*example",
+        "id": "GDP & national economiesexample",
         "name": "average household income in kalumbila district zambia",
-        "parent": "GDP & national economies*",
+        "parent": "GDP & national economies",
         "size": 1
     },
     {

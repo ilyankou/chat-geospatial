@@ -8,14 +8,14 @@
         "name": "Writing & ideation",
         "parent": "root",
         "size": 3348,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Country-specific",
         "name": "Country-specific",
         "parent": "root",
         "size": 2889,
-        "colour": "#1f78b4"
+        "colour": "#a6cee3"
     },
     {
         "id": "Statistical*",
@@ -32,18 +32,18 @@
         "colour": "#33a02c"
     },
     {
+        "id": "Trip planning",
+        "name": "Trip planning",
+        "parent": "root",
+        "size": 1165,
+        "colour": "#e31a1c"
+    },
+    {
         "id": "Physical*",
         "name": "Physical*",
         "parent": "root",
         "size": 1150,
         "colour": "#fb9a99"
-    },
-    {
-        "id": "Trip planning",
-        "name": "Trip planning",
-        "parent": "root",
-        "size": 1069,
-        "colour": "#e31a1c"
     },
     {
         "id": "Business & finance",
@@ -56,7 +56,7 @@
         "id": "POIs & Commercial*",
         "name": "POIs & Commercial*",
         "parent": "root",
-        "size": 942,
+        "size": 846,
         "colour": "#ff7f00"
     },
     {
@@ -71,14 +71,14 @@
         "name": "Misc",
         "parent": "root",
         "size": 719,
-        "colour": "#6a3d9a"
+        "colour": "#cccccc"
     },
     {
         "id": "Events*",
         "name": "Events*",
         "parent": "root",
         "size": 692,
-        "colour": "#cccccc"
+        "colour": "#6a3d9a"
     },
     {
         "id": "Administrative*",
@@ -106,14 +106,14 @@
         "name": "Write a script (university/college focus)",
         "parent": "Writing & ideation",
         "size": 1285,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "China & Taiwan",
         "name": "China & Taiwan",
         "parent": "Country-specific",
         "size": 916,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Country rankings",
@@ -134,21 +134,21 @@
         "name": "Weather & temperature*",
         "parent": "Temporal*",
         "size": 605,
-        "colour": "#999"
+        "colour": "#cab2d6"
     },
     {
         "id": "Fictional world building",
         "name": "Fictional world building",
         "parent": "Writing & ideation",
         "size": 501,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Planets & space*",
         "name": "Planets & space*",
         "parent": "Physical*",
         "size": 395,
-        "colour": "#999"
+        "colour": "#fb9a99"
     },
     {
         "id": "Capital cities",
@@ -169,42 +169,42 @@
         "name": "European history*",
         "parent": "Historical*",
         "size": 384,
-        "colour": "#999"
+        "colour": "#33a02c"
     },
     {
         "id": "Birthplaces & residences*",
         "name": "Birthplaces & residences*",
         "parent": "Biographical*",
         "size": 374,
-        "colour": "#999"
+        "colour": "#8dd3c7"
     },
     {
         "id": "Russia-Ukraine war",
         "name": "Russia-Ukraine war",
         "parent": "Events*",
         "size": 345,
-        "colour": "#cccccc"
+        "colour": "#6a3d9a"
     },
     {
         "id": "University rankings*",
         "name": "University rankings*",
         "parent": "Statistical*",
         "size": 315,
-        "colour": "#999"
+        "colour": "#b2df8a"
     },
     {
         "id": "India",
         "name": "India",
         "parent": "Country-specific",
         "size": 311,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Write a short story",
         "name": "Write a short story",
         "parent": "Writing & ideation",
         "size": 305,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Suppliers & B2B sourcing",
@@ -218,35 +218,35 @@
         "name": "Restaurants*",
         "parent": "POIs & Commercial*",
         "size": 266,
-        "colour": "#999"
+        "colour": "#ff7f00"
     },
     {
         "id": "Japan",
         "name": "Japan",
         "parent": "Country-specific",
         "size": 239,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Oceans, water & hydrology*",
         "name": "Oceans, water & hydrology*",
         "parent": "Physical*",
         "size": 239,
-        "colour": "#999"
+        "colour": "#fb9a99"
     },
     {
         "id": "Plants, animals & wildlife by region*",
         "name": "Plants, animals & wildlife by region*",
         "parent": "Physical*",
         "size": 216,
-        "colour": "#999"
+        "colour": "#fb9a99"
     },
     {
         "id": "Image-generation prompts",
         "name": "Image-generation prompts",
         "parent": "Writing & ideation",
         "size": 206,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Salaries and taxes by country",
@@ -260,63 +260,70 @@
         "name": "US history*",
         "parent": "Historical*",
         "size": 188,
-        "colour": "#999"
-    },
-    {
-        "id": "Beach + social media copy",
-        "name": "Beach + social media copy",
-        "parent": "Misc",
-        "size": 187,
-        "colour": "#6a3d9a"
+        "colour": "#33a02c"
     },
     {
         "id": "Prime ministers*",
         "name": "Prime ministers*",
         "parent": "Historical*",
         "size": 187,
-        "colour": "#999"
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Beach + social media copy",
+        "name": "Beach + social media copy",
+        "parent": "Misc",
+        "size": 187,
+        "colour": "#cccccc"
     },
     {
         "id": "Football results and predictions",
         "name": "Football results and predictions",
         "parent": "Events*",
         "size": 177,
-        "colour": "#cccccc"
+        "colour": "#6a3d9a"
     },
     {
         "id": "Mountains & elevation*",
         "name": "Mountains & elevation*",
         "parent": "Physical*",
         "size": 171,
-        "colour": "#999"
+        "colour": "#fb9a99"
     },
     {
         "id": "World events",
         "name": "World events",
         "parent": "Events*",
         "size": 170,
-        "colour": "#cccccc"
+        "colour": "#6a3d9a"
     },
     {
         "id": "US presidents & elections*",
         "name": "US presidents & elections*",
         "parent": "Historical*",
         "size": 169,
-        "colour": "#999"
+        "colour": "#33a02c"
     },
     {
         "id": "Canada",
         "name": "Canada",
         "parent": "Country-specific",
         "size": 167,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Write an analysis",
         "name": "Write an analysis",
         "parent": "Writing & ideation",
         "size": 158,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
+    },
+    {
+        "id": "Tell me about a place",
+        "name": "Tell me about a place",
+        "parent": "Writing & ideation",
+        "size": 158,
+        "colour": "#1f78b4"
     },
     {
         "id": "Best places to live / local recommendations",
@@ -326,32 +333,25 @@
         "colour": "#e31a1c"
     },
     {
-        "id": "Tell me about a place",
-        "name": "Tell me about a place",
-        "parent": "Writing & ideation",
-        "size": 158,
-        "colour": "#a6cee3"
-    },
-    {
         "id": "Where are you & I from",
         "name": "Where are you & I from",
         "parent": "Misc",
         "size": 156,
-        "colour": "#6a3d9a"
+        "colour": "#cccccc"
     },
     {
         "id": "Time zones*",
         "name": "Time zones*",
         "parent": "Temporal*",
         "size": 148,
-        "colour": "#999"
+        "colour": "#cab2d6"
     },
     {
         "id": "Tall buildings & towers*",
         "name": "Tall buildings & towers*",
         "parent": "POIs & Commercial*",
         "size": 147,
-        "colour": "#999"
+        "colour": "#ff7f00"
     },
     {
         "id": "Russia & USSR (history)",
@@ -365,35 +365,35 @@
         "name": "Write a blog/social media post",
         "parent": "Writing & ideation",
         "size": 140,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Philippines & Malaysia",
         "name": "Philippines & Malaysia",
         "parent": "Country-specific",
         "size": 130,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Airports*",
         "name": "Airports*",
         "parent": "POIs & Commercial*",
         "size": 128,
-        "colour": "#999"
+        "colour": "#ff7f00"
     },
     {
         "id": "Israel & Palestine",
         "name": "Israel & Palestine",
         "parent": "Country-specific",
         "size": 122,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Write a poem",
         "name": "Write a poem",
         "parent": "Writing & ideation",
         "size": 120,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Film/DVD release dates",
@@ -407,7 +407,7 @@
         "name": "Singapore & Hong Kong",
         "parent": "Country-specific",
         "size": 112,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Abandoned houses",
@@ -417,32 +417,32 @@
         "colour": "#ff7f00"
     },
     {
-        "id": "Write an application / cover letter",
-        "name": "Write an application / cover letter",
-        "parent": "Writing & ideation",
-        "size": 106,
-        "colour": "#a6cee3"
-    },
-    {
         "id": "Germany",
         "name": "Germany",
         "parent": "Country-specific",
         "size": 106,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Traffic & urban planning",
         "name": "Traffic & urban planning",
         "parent": "Misc",
         "size": 106,
-        "colour": "#6a3d9a"
+        "colour": "#cccccc"
+    },
+    {
+        "id": "Write an application / cover letter",
+        "name": "Write an application / cover letter",
+        "parent": "Writing & ideation",
+        "size": 106,
+        "colour": "#1f78b4"
     },
     {
         "id": "Vietnam",
         "name": "Vietnam",
         "parent": "Country-specific",
         "size": 103,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "US state laws (business focus)",
@@ -456,28 +456,35 @@
         "name": "Korea",
         "parent": "Country-specific",
         "size": 96,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Flight booking & airfare",
         "name": "Flight booking & airfare",
-        "parent": "POIs & Commercial*",
+        "parent": "Trip planning",
         "size": 96,
-        "colour": "#ff7f00"
+        "colour": "#e31a1c"
     },
     {
         "id": "Pakistan & Bangladesh",
         "name": "Pakistan & Bangladesh",
         "parent": "Country-specific",
         "size": 91,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Kings and monarchs*",
         "name": "Kings and monarchs*",
         "parent": "Historical*",
         "size": 89,
-        "colour": "#999"
+        "colour": "#33a02c"
+    },
+    {
+        "id": "Censorship by country",
+        "name": "Censorship by country",
+        "parent": "Misc",
+        "size": 88,
+        "colour": "#cccccc"
     },
     {
         "id": "Crime statistics",
@@ -485,13 +492,6 @@
         "parent": "Statistical*",
         "size": 88,
         "colour": "#b2df8a"
-    },
-    {
-        "id": "Censorship by country",
-        "name": "Censorship by country",
-        "parent": "Misc",
-        "size": 88,
-        "colour": "#6a3d9a"
     },
     {
         "id": "Food permits",
@@ -512,7 +512,7 @@
         "name": "Addresses and ZIP codes*",
         "parent": "Administrative*",
         "size": 76,
-        "colour": "#999"
+        "colour": "#b15928"
     },
     {
         "id": "Real estate prices & listings",
@@ -533,56 +533,56 @@
         "name": "Volcanoes, rocks, geology*",
         "parent": "Physical*",
         "size": 73,
-        "colour": "#999"
+        "colour": "#fb9a99"
     },
     {
         "id": "Nordics",
         "name": "Nordics",
         "parent": "Country-specific",
         "size": 70,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "What if / hypothetical history scenarios",
         "name": "What if / hypothetical history scenarios",
         "parent": "Writing & ideation",
         "size": 69,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Iran & Egypt",
         "name": "Iran & Egypt",
         "parent": "Country-specific",
         "size": 69,
-        "colour": "#999"
-    },
-    {
-        "id": "GeoGuessr & map projections",
-        "name": "GeoGuessr & map projections",
-        "parent": "Misc",
-        "size": 68,
-        "colour": "#6a3d9a"
+        "colour": "#a6cee3"
     },
     {
         "id": "Australia",
         "name": "Australia",
         "parent": "Country-specific",
         "size": 68,
-        "colour": "#999"
+        "colour": "#a6cee3"
+    },
+    {
+        "id": "GeoGuessr & map projections",
+        "name": "GeoGuessr & map projections",
+        "parent": "Misc",
+        "size": 68,
+        "colour": "#cccccc"
     },
     {
         "id": "Presidents*",
         "name": "Presidents*",
         "parent": "Historical*",
         "size": 68,
-        "colour": "#999"
+        "colour": "#33a02c"
     },
     {
         "id": "Write a review (hotel/resort)",
         "name": "Write a review (hotel/resort)",
         "parent": "Writing & ideation",
         "size": 67,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Recipes and regional cuisine",
@@ -596,7 +596,7 @@
         "name": "Write a (fake) news article",
         "parent": "Writing & ideation",
         "size": 67,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Professional licensing",
@@ -617,7 +617,7 @@
         "name": "Turkey",
         "parent": "Country-specific",
         "size": 64,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Property description & search",
@@ -631,28 +631,28 @@
         "name": "Historical battles & wars*",
         "parent": "Historical*",
         "size": 63,
-        "colour": "#999"
+        "colour": "#33a02c"
     },
     {
         "id": "Network infrastructure by country",
         "name": "Network infrastructure by country",
         "parent": "Country-specific",
         "size": 62,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Write an essay",
         "name": "Write an essay",
         "parent": "Writing & ideation",
         "size": 61,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "US state laws",
         "name": "US state laws",
         "parent": "Misc",
         "size": 60,
-        "colour": "#6a3d9a"
+        "colour": "#cccccc"
     },
     {
         "id": "Money & business advice",
@@ -673,21 +673,21 @@
         "name": "Mexico",
         "parent": "Country-specific",
         "size": 55,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Indonesia",
         "name": "Indonesia",
         "parent": "Country-specific",
         "size": 55,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "Write a song",
         "name": "Write a song",
         "parent": "Writing & ideation",
         "size": 55,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Cars (buying, popularity, licensing)",
@@ -701,14 +701,14 @@
         "name": "Accessing ChatGPT from blocked countries",
         "parent": "Misc",
         "size": 54,
-        "colour": "#6a3d9a"
+        "colour": "#cccccc"
     },
     {
         "id": "Poland",
         "name": "Poland",
         "parent": "Country-specific",
         "size": 53,
-        "colour": "#999"
+        "colour": "#a6cee3"
     },
     {
         "id": "GDP & national economies",
@@ -722,7 +722,7 @@
         "name": "Tell me a joke",
         "parent": "Writing & ideation",
         "size": 50,
-        "colour": "#a6cee3"
+        "colour": "#1f78b4"
     },
     {
         "id": "Write a script (university/college focus)example",
@@ -863,15 +863,15 @@
         "size": 1
     },
     {
-        "id": "Beach + social media copyexample",
-        "name": "what is your take on anjarle beach",
-        "parent": "Beach + social media copy",
-        "size": 1
-    },
-    {
         "id": "Prime ministers*example",
         "name": "who is the pm of australia?",
         "parent": "Prime ministers*",
+        "size": 1
+    },
+    {
+        "id": "Beach + social media copyexample",
+        "name": "what is your take on anjarle beach",
+        "parent": "Beach + social media copy",
         "size": 1
     },
     {
@@ -911,15 +911,15 @@
         "size": 1
     },
     {
-        "id": "Best places to live / local recommendationsexample",
-        "name": "how safe is the city of barcelona",
-        "parent": "Best places to live / local recommendations",
-        "size": 1
-    },
-    {
         "id": "Tell me about a placeexample",
         "name": "is karlsruhe a good place to live?",
         "parent": "Tell me about a place",
+        "size": 1
+    },
+    {
+        "id": "Best places to live / local recommendationsexample",
+        "name": "how safe is the city of barcelona",
+        "parent": "Best places to live / local recommendations",
         "size": 1
     },
     {
@@ -995,12 +995,6 @@
         "size": 1
     },
     {
-        "id": "Write an application / cover letterexample",
-        "name": "write email address for uae schools hr department",
-        "parent": "Write an application / cover letter",
-        "size": 1
-    },
-    {
         "id": "Germanyexample",
         "name": "where is munich?",
         "parent": "Germany",
@@ -1010,6 +1004,12 @@
         "id": "Traffic & urban planningexample",
         "name": "list impacts of streetcar to an urban area",
         "parent": "Traffic & urban planning",
+        "size": 1
+    },
+    {
+        "id": "Write an application / cover letterexample",
+        "name": "write email address for uae schools hr department",
+        "parent": "Write an application / cover letter",
         "size": 1
     },
     {
@@ -1049,15 +1049,15 @@
         "size": 1
     },
     {
-        "id": "Crime statisticsexample",
-        "name": "rank all usa states by crime rate",
-        "parent": "Crime statistics",
-        "size": 1
-    },
-    {
         "id": "Censorship by countryexample",
         "name": "what websites are banned in germany",
         "parent": "Censorship by country",
+        "size": 1
+    },
+    {
+        "id": "Crime statisticsexample",
+        "name": "rank all usa states by crime rate",
+        "parent": "Crime statistics",
         "size": 1
     },
     {
@@ -1115,15 +1115,15 @@
         "size": 1
     },
     {
-        "id": "GeoGuessr & map projectionsexample",
-        "name": "what is cities skylines",
-        "parent": "GeoGuessr & map projections",
-        "size": 1
-    },
-    {
         "id": "Australiaexample",
         "name": "tell me about the history of tasmania",
         "parent": "Australia",
+        "size": 1
+    },
+    {
+        "id": "GeoGuessr & map projectionsexample",
+        "name": "what is cities skylines",
+        "parent": "GeoGuessr & map projections",
         "size": 1
     },
     {

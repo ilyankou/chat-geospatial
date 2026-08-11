@@ -2,7 +2,7 @@
 
 Code and taxonomy for our BritCHI 2026 paper: **"Conversational Interfaces Reshape What People Ask of Place"** (Ilyankou, Cavazzi & Haworth, 2026).
 
-We reuse the geospatial classifier and clustering pipeline from our prior study of Bing search queries (*Much of Geospatial Web Search Is Beyond Traditional GIS*: [arXiv](https://arxiv.org/abs/2605.11336v1), [GitHub](https://github.com/ilyankou/ms-marco-geospatial)) and apply it to 423,142 short, first-turn, English-language chatbot prompts drawn from three public corpora — [WildChat](https://arxiv.org/abs/2405.01470), [ShareChat](https://arxiv.org/abs/2512.17843), and [LMSYS-Chat-1M](https://arxiv.org/abs/2309.11998) — to see how expressed geospatial needs differ between a keyword search bar and a conversational interface.
+We reuse the geospatial classifier and clustering pipeline from our prior study of Bing search queries (*Much of Geospatial Web Search Is Beyond Traditional GIS*: [arXiv](https://arxiv.org/abs/2605.11336v2), [GitHub](https://github.com/ilyankou/ms-marco-geospatial)) and apply it to 423,142 short, first-turn, English-language chatbot prompts drawn from three public corpora — [WildChat](https://arxiv.org/abs/2405.01470), [ShareChat](https://arxiv.org/abs/2512.17843), and [LMSYS-Chat-1M](https://arxiv.org/abs/2309.11998) — to see how expressed geospatial needs differ between a keyword search bar and a conversational interface.
 
 We find that the factual-lookup core persists (people still ask chatbots for capitals, distances, and boundaries), but the largest new behaviour, **Writing & ideation** (place-grounded text composition), has no counterpart in keyword search, and **Trip planning** shifts from narrow "when to go" questions to itinerary-scale, multi-constraint requests.
 

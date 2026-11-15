@@ -42,7 +42,8 @@ If you use this code or taxonomy, please cite:
   author    = {Ilyankou, Ilya and Cavazzi, Stefano and Haworth, James},
   booktitle = {Proceedings of BCS BritCHI 2026},
   year      = {2026},
-  publisher = {BCS Learning and Development Ltd.}
+  publisher = {BCS Learning and Development Ltd.},
+  doi       = {10.14236/ewic/BRITCHI26.42}
 }
 ```
 

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code or taxonomy, please cite the paper below."
+title: "Conversational Interfaces Reshape What People Ask of Place"
+type: software
+authors:
+  - family-names: Ilyankou
+    given-names: Ilya
+  - family-names: Cavazzi
+    given-names: Stefano
+  - family-names: Haworth
+    given-names: James
+repository-code: "https://github.com/ilyankou/spatial-queries-chat"
+keywords:
+  - geospatial
+  - conversational interfaces
+  - chatbots
+  - large language models
+  - human-computer interaction
+preferred-citation:
+  type: conference-paper
+  title: "Conversational Interfaces Reshape What People Ask of Place"
+  authors:
+    - family-names: Ilyankou
+      given-names: Ilya
+    - family-names: Cavazzi
+      given-names: Stefano
+    - family-names: Haworth
+      given-names: James
+  collection-title: "Proceedings of BCS BritCHI 2026"
+  conference:
+    name: "39th International BCS Human-Computer Interaction Conference (BritCHI 2026)"
+  journal: "Electronic Workshops in Computing"
+  issn: "1477-9358"
+  publisher:
+    name: "BCS Learning & Development Ltd."
+  year: 2026
+  doi: "10.14236/ewic/BRITCHI26.42"
+  url: "https://doi.org/10.14236/ewic/BRITCHI26.42"
+  license: CC-BY-4.0

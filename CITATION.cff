@@ -9,7 +9,7 @@ authors:
     given-names: Stefano
   - family-names: Haworth
     given-names: James
-repository-code: "https://github.com/ilyankou/spatial-queries-chat"
+repository-code: "https://github.com/ilyankou/chat-geospatial"
 keywords:
   - geospatial
   - conversational interfaces
